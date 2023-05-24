@@ -1,0 +1,37 @@
+{
+  "kk": [
+    "zerkalo",
+    "complimentModule",
+    "calendarModule",
+    "weatherModule",
+    "currencyModule",
+    "currency",
+    "exchangeRate",
+    "buy",
+    "dayDelta",
+    "todoModule",
+    "tomorrow",
+    "today",
+    "yesterday",
+    "newsModule",
+    "newsPublisher"
+  ],
+
+  "ru": [
+    "zerkalo",
+    "complimentModule",
+    "calendarModule",
+    "weatherModule",
+    "currencyModule",
+    "currency",
+    "exchangeRate",
+    "buy",
+    "dayDelta",
+    "todoModule",
+    "tomorrow",
+    "today",
+    "yesterday",
+    "newsModule",
+    "newsPublisher"
+  ]
+}

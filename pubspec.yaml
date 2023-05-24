@@ -1,0 +1,143 @@
+name: mirracle
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.1 <4.0.0'
+
+dependency_overrides:
+  intl: ^0.18.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # * Global Utilities
+  # Localization
+  flutter_localizations:
+    sdk: flutter
+  # Localization
+  intl: ^0.18.0
+  # Flavoring
+  flutter_flavorizr: ^2.1.5
+  # Icon Generator
+  flutter_launcher_icons: ^0.13.0
+  # Native Splash Screen
+  flutter_native_splash: ^2.2.15
+
+  # * General Utilities
+  # Path Manipulation
+  path: ^1.8.2
+  # Commonly used locations on the filesystem
+  path_provider: ^2.0.15
+  # Manage .env files
+  flutter_dotenv: ^5.0.2
+  # Functional programming
+  fpdart: ^0.6.0
+
+  # * Navigation and routing
+  # Main Application Router
+  go_router: ^6.5.5
+  # URL Launcher
+  url_launcher: ^6.1.8
+
+  # * State Management
+  # Enhanced over provider library to manage state 
+  flutter_riverpod: ^2.1.1
+
+  # * UI
+  # Tool for UI adaptability
+  flutter_screenutil: ^5.8.2
+  # Cupertino Icons
+  cupertino_icons: ^1.0.2
+  # Google Fonts
+  google_fonts: ^4.0.3
+  # Svg Images
+  flutter_svg: ^2.0.6
+
+  # * Code Generation
+  # Freezed
+  freezed_annotation: ^2.2.0
+  # JSON Serialization annotations
+  json_annotation: ^4.8.1
+
+  # * Data Management
+  # Http client
+  dio: ^5.1.2
+  # JWT Token
+  jwt_decode: ^0.3.1
+  # Key Value Storage
+  shared_preferences: ^2.1.1
+  # * Testing
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+  # * Code Generation
+  # Generating Files 
+  build_runner: ^2.3.3
+  # Generating Serialization of JSON
+  json_serializable: ^6.7.0
+  # Code Generation for Models and Union Types
+  freezed: ^2.3.2
+  # Generating Asset Files
+  flutter_gen_runner: ^5.3.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/fonts/
+    - assets/weather/
+    # Environment Files
+    - lib/src/core/env/
+  fonts:
+    - family: MuseoSans
+      fonts:
+        - asset: assets/fonts/MuseoSansCyrl-100.ttf
+        - asset: assets/fonts/MuseoSansCyrl-100italic.ttf
+        - asset: assets/fonts/MuseoSansCyrl-300.ttf
+        - asset: assets/fonts/MuseoSansCyrl-300italic.ttf
+        - asset: assets/fonts/MuseoSansCyrl-500.ttf
+        - asset: assets/fonts/MuseoSansCyrl-500italic.ttf
+        - asset: assets/fonts/MuseoSansCyrl-700.ttf
+        - asset: assets/fonts/MuseoSansCyrl-700italic.ttf
+        - asset: assets/fonts/MuseoSansCyrl-900.ttf
+        - asset: assets/fonts/MuseoSansCyrl-900italic.ttf
+
+flutter_gen:
+  output: lib/gen/
+  line_length: 80 # Optional (default: 80)
+
+  # Integrations with the FlutterGen
+  integrations:
+    flutter_svg: true
+
+flutter_icons:
+  image_path: "assets/icons/prod.png"
+  # Android Icon
+  android: true
+  adaptive_icon_background: "#1E1E1E"
+  # iOS Icon
+  ios: true
+  remove_alpha_ios: true
+
+flutter_native_splash:
+  android: true
+  ios: true
+  color: "FFFFFF"
+  color_dark: "000000"
+  image: assets/splash/light.png
+  image_dark: assets/splash/dark.png
+  fullscreen: true
+  android_gravity: center
+  ios_gravity: center
+  android_12:
+    image: assets/splash/light.png
+    image_dark: assets/splash/dark.png
+    icon_background_color: "#000000"
+    icon_background_color_dark: "#000000"
+flutter_intl:
+  enabled: true
