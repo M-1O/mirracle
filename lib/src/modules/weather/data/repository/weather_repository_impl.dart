@@ -53,7 +53,7 @@ class WeatherRepoImpl extends IWeatherRepository {
   Future<Weather> getCurrentWeather(Location location) async {
     final weatherResponse = await _iWeatherRemote.getWeather(location);
     try {
-      log('weatherResponse: ${weatherResponse.data}', name: 'WeatherRepoImpl');
+      // log('weatherResponse: ${weatherResponse.data}', name: 'WeatherRepoImpl');
       final weather = WeatherResponseModel.fromJson(weatherResponse.data);
 
       return responseToWeatherModel(weather);

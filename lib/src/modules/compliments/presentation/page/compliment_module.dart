@@ -14,6 +14,7 @@ class ComplimentModule extends ConsumerStatefulWidget {
 
 class _ComplimentModuleState extends ConsumerState<ComplimentModule> {
   final Duration _duration = const Duration(seconds: 20);
+  final Duration _pause = const Duration(seconds: 5);
 
   @override
   Widget build(BuildContext context) {
@@ -23,12 +24,13 @@ class _ComplimentModuleState extends ConsumerState<ComplimentModule> {
         animatedTexts: [
           FadeAnimatedText(
             compliment,
+            duration: _duration,
             textStyle: Theme.of(context).textTheme.displayLarge,
             textAlign: TextAlign.center,
           ),
         ],
         repeatForever: true,
-        pause: _duration,
+        pause: _pause,
       ),
     );
   }

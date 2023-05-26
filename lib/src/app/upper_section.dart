@@ -71,7 +71,7 @@ class UpperLeft extends StatelessWidget {
               height: 100,
               child: Padding(
                 padding: EdgeInsets.only(top: 20.h),
-                child: const Placeholder(),
+                child: const SizedBox(),
               ),
             ),
           ),

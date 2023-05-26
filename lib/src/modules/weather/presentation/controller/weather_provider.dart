@@ -1,5 +1,3 @@
-import 'dart:developer';
-
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../../data/datasources/remote/weather_remote_impl.dart';
@@ -61,7 +59,7 @@ class WeatherProvider extends StateNotifier<Weather> {
   Future<void> updateWeather() async {
     final location = ref.read(locationProvider);
     final result = await getCurrentWeather.call(location);
-    log('WeatherProvider.updateLocation: $result');
+    // log('WeatherProvider.updateLocation: $result', name: 'WeatherProvider');
     result.fold(
       (l) => throw Exception(l.toString()),
       (r) => state = r,

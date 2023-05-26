@@ -13,6 +13,14 @@ class NewsEntity with _$NewsEntity {
     required DateTime? createdAt,
   }) = _NewsEntity;
 
+  factory NewsEntity.empty() => const NewsEntity(
+        id: '',
+        text: '',
+        title: '',
+        source: '',
+        createdAt: null,
+      );
+
   factory NewsEntity.fromModel(NewsEntity model) => NewsEntity(
         id: model.id,
         text: model.text,

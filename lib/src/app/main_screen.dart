@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 import '../modules/compliments/presentation/page/compliment_module.dart';
+import '../modules/news/presentation/page/news_module.dart';
 import 'upper_section.dart';
 
 class MainScreen extends StatelessWidget {
@@ -32,7 +33,7 @@ class MainScreen extends StatelessWidget {
             ),
             Expanded(
               flex: 4,
-              child: Placeholder(),
+              child: NewsModule(),
             ),
           ],
         ),

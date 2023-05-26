@@ -14,7 +14,19 @@ class TodoModule extends ConsumerStatefulWidget {
 class _TodoModuleState extends ConsumerState<TodoModule> {
   List<Todo> todos = [
     Todo(
-      title: 'some todo',
+      title: 'Cafe with friends',
+      deadline: DateTime.now().add(
+        const Duration(days: 1, hours: 4),
+      ),
+    ),
+    Todo(
+      title: 'Family dinner',
+      deadline: DateTime.now().add(
+        const Duration(days: 1, hours: 2),
+      ),
+    ),
+    Todo(
+      title: 'Cafe with friends',
       deadline: DateTime.now().add(
         const Duration(days: 1),
       ),
