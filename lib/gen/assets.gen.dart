@@ -70,6 +70,16 @@ class $AssetsFontsGen {
       ];
 }
 
+class $AssetsIcalGen {
+  const $AssetsIcalGen();
+
+  /// File path: assets/ical/basic-2.ics
+  String get basic2 => 'assets/ical/basic-2.ics';
+
+  /// List of all assets
+  List<String> get values => [basic2];
+}
+
 class $AssetsWeatherGen {
   const $AssetsWeatherGen();
 
@@ -163,6 +173,7 @@ class Assets {
   Assets._();
 
   static const $AssetsFontsGen fonts = $AssetsFontsGen();
+  static const $AssetsIcalGen ical = $AssetsIcalGen();
   static const $AssetsWeatherGen weather = $AssetsWeatherGen();
   static const $LibGen lib = $LibGen();
 }

@@ -25,6 +25,8 @@ dependencies:
   flutter_launcher_icons: ^0.13.0
   # Native Splash Screen
   flutter_native_splash: ^2.2.15
+  # Calendar
+  icalendar_parser: ^2.0.0
 
   # * General Utilities
   # Path Manipulation
@@ -35,6 +37,15 @@ dependencies:
   flutter_dotenv: ^5.0.2
   # Functional programming
   fpdart: ^0.6.0
+  # Permission Handler
+  permission_handler: ^10.2.0
+  # Network Info
+  network_info_plus: ^4.0.1
+  # Window Size
+  window_size:
+    git:
+      url: https://github.com/google/flutter-desktop-embedding
+      path: plugins/window_size
 
   # * Navigation and routing
   # Main Application Router
@@ -55,6 +66,9 @@ dependencies:
   google_fonts: ^4.0.3
   # Svg Images
   flutter_svg: ^2.0.6
+  # Animated Text
+  animated_text_kit: ^4.2.2
+  
 
   # * Code Generation
   # Freezed
@@ -69,6 +83,8 @@ dependencies:
   jwt_decode: ^0.3.1
   # Key Value Storage
   shared_preferences: ^2.1.1
+
+
   # * Testing
 
 dev_dependencies:
@@ -91,8 +107,10 @@ flutter:
   assets:
     - assets/fonts/
     - assets/weather/
+    - assets/ical/
     # Environment Files
     - lib/src/core/env/
+    
   fonts:
     - family: MuseoSans
       fonts:
@@ -139,5 +157,10 @@ flutter_native_splash:
     image_dark: assets/splash/dark.png
     icon_background_color: "#000000"
     icon_background_color_dark: "#000000"
+
+
+# Localizations generating config
 flutter_intl:
   enabled: true
+  arb_dir: lib/src/core/localization/l10n
+  output_dir: lib/src/core/localization/generated

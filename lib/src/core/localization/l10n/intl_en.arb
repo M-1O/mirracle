@@ -1,0 +1,32 @@
+{
+    "zerkalo":"zerkalo",
+    
+    "complimentModule": "Today is a good day for you",
+
+    "calendarModule": "Calendar Module",
+
+    "weatherModule": "Weather Module",
+
+    "currencyModule": "Currency Module",
+    "currency": "Currency",
+    "exchangeRate": "Rate",
+    "buy": "Buy",
+    "dayDelta": "Day Delta",
+
+
+    "feelsLike": "Feels Like",
+    "wind": "Wind",
+    "humidity": "Humidity",
+    "pressure": "Pressure",
+    "visibility": "Visibility",
+    "cloudCover": "Cloud Cover",
+
+
+    "todoModule": "Todo Module",
+    "tomorrow": "Tomorrow",
+    "today": "Today",
+    "yesterday": "Yesterday",
+
+    "newsModule": "News Module",
+    "newsPublisher": "News Publisher"
+}
