@@ -111,19 +111,19 @@ flutter:
     # Environment Files
     - lib/src/core/env/
     
-  fonts:
-    - family: MuseoSans
-      fonts:
-        - asset: assets/fonts/MuseoSansCyrl-100.ttf
-        - asset: assets/fonts/MuseoSansCyrl-100italic.ttf
-        - asset: assets/fonts/MuseoSansCyrl-300.ttf
-        - asset: assets/fonts/MuseoSansCyrl-300italic.ttf
-        - asset: assets/fonts/MuseoSansCyrl-500.ttf
-        - asset: assets/fonts/MuseoSansCyrl-500italic.ttf
-        - asset: assets/fonts/MuseoSansCyrl-700.ttf
-        - asset: assets/fonts/MuseoSansCyrl-700italic.ttf
-        - asset: assets/fonts/MuseoSansCyrl-900.ttf
-        - asset: assets/fonts/MuseoSansCyrl-900italic.ttf
+  # fonts:
+  #   - family: MuseoSans
+  #     fonts:
+  #       - asset: assets/fonts/MuseoSansCyrl-100.ttf
+  #       - asset: assets/fonts/MuseoSansCyrl-100italic.ttf
+  #       - asset: assets/fonts/MuseoSansCyrl-300.ttf
+  #       - asset: assets/fonts/MuseoSansCyrl-300italic.ttf
+  #       - asset: assets/fonts/MuseoSansCyrl-500.ttf
+  #       - asset: assets/fonts/MuseoSansCyrl-500italic.ttf
+  #       - asset: assets/fonts/MuseoSansCyrl-700.ttf
+  #       - asset: assets/fonts/MuseoSansCyrl-700italic.ttf
+  #       - asset: assets/fonts/MuseoSansCyrl-900.ttf
+  #       - asset: assets/fonts/MuseoSansCyrl-900italic.ttf
 
 flutter_gen:
   output: lib/gen/

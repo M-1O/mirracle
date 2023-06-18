@@ -1,6 +1,8 @@
 part of 'theme.dart';
 
-final textTheme = TextTheme(
+final textTheme = TextTheme();
+
+final textTheme2 = TextTheme(
   // * Compliment Text and Time
   displayLarge: TextStyle(
     fontFamily: FontFamily.museoSans,
