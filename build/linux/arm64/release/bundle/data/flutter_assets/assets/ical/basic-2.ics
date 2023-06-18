@@ -1,0 +1,2017 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mukhamejan Omar
+X-WR-TIMEZONE:Asia/Almaty
+BEGIN:VTIMEZONE
+TZID:Asia/Almaty
+X-LIC-LOCATION:Asia/Almaty
+BEGIN:STANDARD
+TZOFFSETFROM:+0600
+TZOFFSETTO:+0600
+TZNAME:+06
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART:20230605T040500Z
+DTEND:20230605T055500Z
+DTSTAMP:20230525T210935Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:7kukuqrfedlm2f9tu8bq3pbtt65dmpprd7928v3n1kb0jbraoio0e579op10oe750avg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mukham
+ ejan.omar@gmail.com;X-NUM-GUESTS=0:mailto:mukhamejan.omar@gmail.com
+CLASS:PRIVATE
+CREATED:20230507T171845Z
+DESCRIPTION:Чтобы посмотреть подробную информацию об автоматически созданны
+ х мероприятиях\, используйте официальное приложение "Google Календарь". htt
+ ps://g.co/calendar\n\nЭто мероприятие создано из сообщения электронной почт
+ ы\, полученного в Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6
+ DNatL75H5MAFoxO5s14IwYLf9OERhkVqcw\n
+LAST-MODIFIED:20230507T171845Z
+LOCATION:Алматы ALA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Flight to Астана (KC 7053)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230506T060000Z
+DTEND:20230506T071500Z
+DTSTAMP:20230525T210935Z
+UID:3vqvqfkefs6v89t9gtfkeqqolr@google.com
+CREATED:20230505T204540Z
+DESCRIPTION:Chop-Chop Астана Кунаева\nКазахстан Астана Dinmukhamed Qonayev 
+ St\, 2\n\nМУЖСКАЯ СТРИЖКА - цена: 5\,000 ₸\nСпециалист: Нурмухаммад\nТелефо
+ ны: \n  +7 777 363-00-44\n\nСайт: chopchop.me
+LAST-MODIFIED:20230505T204540Z
+LOCATION:Казахстан Астана Dinmukhamed Qonayev St\, 2
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:МУЖСКАЯ СТРИЖКА - Chop-Chop Астана Кунаева на Dinmukhamed Qonayev S
+ t\, 2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230406T040000Z
+DTEND:20230406T050000Z
+DTSTAMP:20230525T210935Z
+UID:6maiblv1dlatf3hpbts4utnkcm@google.com
+CREATED:20230405T111240Z
+DESCRIPTION:Chop-Chop Астана Кунаева\nКазахстан Астана Dinmukhamed Qonayev 
+ St\, 2\n\nМУЖСКАЯ СТРИЖКА - цена: 5\,000 ₸\nСпециалист: Нурмухаммад\nТелефо
+ ны: \n  +7 777 363-00-44\n\nСайт: chopchop.me
+LAST-MODIFIED:20230405T111240Z
+LOCATION:Казахстан Астана Dinmukhamed Qonayev St\, 2
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:МУЖСКАЯ СТРИЖКА - Chop-Chop Астана Кунаева на Dinmukhamed Qonayev S
+ t\, 2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230317T040000Z
+DTEND:20230317T050000Z
+DTSTAMP:20230525T210935Z
+UID:15d082ht31isgbsdfbpo2imbec@google.com
+CREATED:20230316T155902Z
+DESCRIPTION:Chop-Chop Астана Кунаева\nКазахстан Нур-Султан (Астана) Dinmukh
+ amed Qonayev St\, 2\n\nМУЖСКАЯ СТРИЖКА - цена: 5\,000 ₸\nСпециалист: Амир\n
+ Телефоны: \n  +7 777 363-00-44\n\nСайт: chopchop.me
+LAST-MODIFIED:20230316T155902Z
+LOCATION:Казахстан Нур-Султан (Астана) Dinmukhamed Qonayev St\, 2
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:МУЖСКАЯ СТРИЖКА - Chop-Chop Астана Кунаева на Dinmukhamed Qonayev S
+ t\, 2
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H50M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210506T090000Z
+DTEND:20210506T110000Z
+DTSTAMP:20230525T210935Z
+ORGANIZER;CN="Kim, Yuliya (contracted)":mailto:yuliya.kim@contracted.pmi.co
+ m
+UID:040000008200E00074C5B7101A82E0080000000090E8DBAC9341D701000000000000000
+ 010000000BF213A9A5B5D294DBD2C3359B7F4D874
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=17
+ 08.a.j@gmail.com;X-NUM-GUESTS=0:mailto:1708.a.j@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ad
+ il_pain@mail.ru;X-NUM-GUESTS=0:mailto:adil_pain@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ad
+ inasag@gmail.com;X-NUM-GUESTS=0:mailto:adinasag@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ai
+ dana.boranbay@nu.edu.kz;X-NUM-GUESTS=0:mailto:aidana.boranbay@nu.edu.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ai
+ ganymbayadilova@gmail.com;X-NUM-GUESTS=0:mailto:aiganymbayadilova@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ai
+ na_bizhanova@mail.ru;X-NUM-GUESTS=0:mailto:aina_bizhanova@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ai
+ zhanaubakir@gmail.com;X-NUM-GUESTS=0:mailto:aizhanaubakir@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ak
+ nurturdaliyeva@gmail.com;X-NUM-GUESTS=0:mailto:aknurturdaliyeva@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ imkulyeldos@gmail.com;X-NUM-GUESTS=0:mailto:alimkulyeldos@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ mirabiss@gmail.com;X-NUM-GUESTS=0:mailto:almirabiss@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ el.talgatkyzy07@gmail.com;X-NUM-GUESTS=0:mailto:anel.talgatkyzy07@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ elyayerkinbek@gmail.com;X-NUM-GUESTS=0:mailto:anelyayerkinbek@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ar
+ uzhankumarova@gmail.com;X-NUM-GUESTS=0:mailto:aruzhankumarova@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=as
+ siya.meirmanova@alumni.nu.edu.kz;X-NUM-GUESTS=0:mailto:assiya.meirmanova@nu
+ .edu.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=as
+ tana98776@gmail.com;X-NUM-GUESTS=0:mailto:astana98776@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=az
+ at.kalimba@gmail.com;X-NUM-GUESTS=0:mailto:azat.kalimba@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ba
+ gissova.c@gmail.com;X-NUM-GUESTS=0:mailto:bagissova.c@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ba
+ lkhanov.com@gmail.com;X-NUM-GUESTS=0:mailto:balkhanov.com@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ba
+ lnur.yenshibay@gmail.com;X-NUM-GUESTS=0:mailto:balnur.yenshibay@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=be
+ kmyrza.ayazbekov@nu.edu.kz;X-NUM-GUESTS=0:mailto:bekmyrza.ayazbekov@nu.edu.
+ kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bo
+ mbitosss@gmail.com;X-NUM-GUESTS=0:mailto:bombitosss@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ irseitkazin@gmail.com;X-NUM-GUESTS=0:mailto:dairseitkazin@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ na.mikkonen@narxoz.kz;X-NUM-GUESTS=0:mailto:dana.mikkonen@narxoz.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ niyarlaiyk@gmail.com;X-NUM-GUESTS=0:mailto:daniyarlaiyk@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=di
+ anaasmv@gmail.com;X-NUM-GUESTS=0:mailto:dianaasmv@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=di
+ narabolatovna1998@gmail.com;X-NUM-GUESTS=0:mailto:dinarabolatovna1998@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ga
+ liya.khairullayeva@kimep.kz;X-NUM-GUESTS=0:mailto:galiya.khairullayeva@kime
+ p.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ga
+ ryngazy@gmail.com;X-NUM-GUESTS=0:mailto:garyngazy@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=km
+ .yuraa1@gmail.com;X-NUM-GUESTS=0:mailto:km.yuraa1@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=la
+ ura.auken1@gmail.com;X-NUM-GUESTS=0:mailto:laura.auken1@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ 950611@gmail.com;X-NUM-GUESTS=0:mailto:ma950611@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ dina.jumagulova@alumni.nu.edu.kz;X-NUM-GUESTS=0:mailto:madina.jumagulova@al
+ umni.nu.edu.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ idawatulepk@gmail.com;X-NUM-GUESTS=0:mailto:maidawatulepk@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ ksimkabaev25@gmail.com;X-NUM-GUESTS=0:mailto:maksimkabaev25@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=me
+ .nurmanov@gmail.com;X-NUM-GUESTS=0:mailto:me.nurmanov@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=mu
+ khamejan.omar@gmail.com;X-NUM-GUESTS=0:mailto:mukhamejan.omar@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=n.
+ tazhimurat@gmail.com;X-NUM-GUESTS=0:mailto:n.tazhimurat@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=na
+ z.telgarayeva@gmail.com;X-NUM-GUESTS=0:mailto:naz.telgarayeva@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ns
+ idagalieva@gmail.com;X-NUM-GUESTS=0:mailto:nsidagalieva@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=nu
+ rlan.berdenovv@gmail.com;X-NUM-GUESTS=0:mailto:nurlan.berdenovv@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=nu
+ rseitseitzhanov@gmail.com;X-NUM-GUESTS=0:mailto:nurseitseitzhanov@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=nu
+ rzhan.shynbergenov@gmail.com;X-NUM-GUESTS=0:mailto:nurzhan.shynbergenov@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=or
+ azaliev.azamat@gmail.com;X-NUM-GUESTS=0:mailto:orazaliev.azamat@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ru
+ stam.kempirov@gmail.com;X-NUM-GUESTS=0:mailto:rustam.kempirov@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sa
+ dyralievaa9@gmail.com;X-NUM-GUESTS=0:mailto:sadyralievaa9@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sa
+ niya.amangalina@mail.ru;X-NUM-GUESTS=0:mailto:saniya.amangalina@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=te
+ mirlan.biman@kimep.kz;X-NUM-GUESTS=0:mailto:temirlan.biman@kimep.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ti
+ ma-abylkairov@mail.ru;X-NUM-GUESTS=0:mailto:tima-abylkairov@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=to
+ miris.bolatbekova@nu.edu.kz;X-NUM-GUESTS=0:mailto:tomiris.bolatbekova@nu.ed
+ u.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=tu
+ rsumbaevatk@gmail.com;X-NUM-GUESTS=0:mailto:tursumbaevatk@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ye
+ rassyltilemis@gmail.com;X-NUM-GUESTS=0:mailto:yerassyltilemis@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=za
+ tusays@gmail.com;X-NUM-GUESTS=0:mailto:zatusays@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=zh
+ .dariya00@gmail.com;X-NUM-GUESTS=0:mailto:zh.dariya00@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=zh
+ akanbay.diana@gmail.com;X-NUM-GUESTS=0:mailto:zhakanbay.diana@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=a-
+ uali@inbox.ru;X-NUM-GUESTS=0:mailto:a-uali@inbox.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ exanderkaribaev@yandex.kz;X-NUM-GUESTS=0:mailto:alexanderkaribaev@yandex.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=as
+ imbaeva99@mail.ru;X-NUM-GUESTS=0:mailto:asimbaeva99@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ba
+ lmakaev_sayat@mail.ru;X-NUM-GUESTS=0:mailto:balmakaev_sayat@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ba
+ rrikadovich@bk.ru;X-NUM-GUESTS=0:mailto:barrikadovich@bk.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ na-kultassova@mail.ru;X-NUM-GUESTS=0:mailto:dana-kultassova@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ na.yerlanova@yandex.ru;X-NUM-GUESTS=0:mailto:dana.yerlanova@yandex.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ naseryakova@yahoo.com;X-NUM-GUESTS=0:mailto:danaseryakova@yahoo.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dn
+ urbaeva@inbox.ru;X-NUM-GUESTS=0:mailto:dnurbaeva@inbox.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=el
+ shnizami@mail.ru;X-NUM-GUESTS=0:mailto:elshnizami@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=en
+ loka@mail.ru;X-NUM-GUESTS=0:mailto:enloka@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=er
+ lan_aden@mail.ru;X-NUM-GUESTS=0:mailto:erlan_aden@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ga
+ usau1@mail.ru;X-NUM-GUESTS=0:mailto:gausau1@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ka
+ mali-1999@mail.ru;X-NUM-GUESTS=0:mailto:kamali-1999@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ka
+ zeu2020@mail.ru;X-NUM-GUESTS=0:mailto:kazeu2020@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ko
+ pzhan.aidarkhan@mail.ru;X-NUM-GUESTS=0:mailto:kopzhan.aidarkhan@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=na
+ rgiz0097@mail.ru;X-NUM-GUESTS=0:mailto:nargiz0097@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=os
+ panov_orazali@mail.ru;X-NUM-GUESTS=0:mailto:ospanov_orazali@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ru
+ slan_srm_99@bk.ru;X-NUM-GUESTS=0:mailto:ruslan_srm_99@bk.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=vi
+ ktoriya.shtelter@mail.ru;X-NUM-GUESTS=0:mailto:viktoriya.shtelter@mail.ru
+CREATED:20210505T045002Z
+DESCRIPTION:\nПрисоединяйся → Click here to join the meeting<https://teams.
+ microsoft.com/l/meetup-join/19%3ameeting_ODA0YjhlMzYtNjE4ZC00NjQyLWJmMGQtMz
+ kwYWMwMmI4MzQ1%40thread.v2/0?context=%7b%22Tid%22%3a%228b86a65e-3c3a-4406-8
+ ac3-19a6b5cc52bc%22%2c%22Oid%22%3a%2252a3e506-80fe-4ecd-acad-9e8bd278fa51%2
+ 2%7d>\n\n\nJoin with a video conferencing device\n12635748@t.plcm.vc<mailto
+ :12635748@t.plcm.vc>\nVideo Conference ID: 121 813 899 1\nAlternate VTC dia
+ ling instructions<https://dialin.plcm.vc/teams/?key=12635748&conf=121813899
+ 1>\nLearn More<https://aka.ms/JoinTeamsMeeting> | Meeting options<https://t
+ eams.microsoft.com/meetingOptions/?organizerId=52a3e506-80fe-4ecd-acad-9e8b
+ d278fa51&tenantId=8b86a65e-3c3a-4406-8ac3-19a6b5cc52bc&threadId=19_meeting_
+ ODA0YjhlMzYtNjE4ZC00NjQyLWJmMGQtMzkwYWMwMmI4MzQ1@thread.v2&messageId=0&lang
+ uage=en-US>\n\n\n\n
+LAST-MODIFIED:20221220T070922Z
+LOCATION:MS Teams
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PMBA_Модуль 4: Магия управления данными
+TRANSP:OPAQUE
+ATTACH;FILENAME=ATT89790 1.jpg:?view=att&th=1793adcfa2c22b4c&attid=0.1&disp
+ =attd&zw
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-OWNERAPPTID:1229281253
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-LOCATIONS:[{"DisplayName":"MS Teams"\,"LocationAnnotation":""\,
+ "LocationUri":""\,"LocationStreet":""\,"LocationCity":""\,"LocationState":"
+ "\,"LocationCountry":""\,"LocationPostalCode":""\,"LocationFullAddress":""}
+ ]
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210504T090000Z
+DTEND:20210504T110000Z
+DTSTAMP:20230525T210935Z
+ORGANIZER;CN="Kim, Yuliya (contracted)":mailto:yuliya.kim@contracted.pmi.co
+ m
+UID:040000008200E00074C5B7101A82E00800000000109BFAA0A73DD701000000000000000
+ 01000000022FF4B7BBE89824FAD997992C7522A67
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=17
+ 08.a.j@gmail.com;X-NUM-GUESTS=0:mailto:1708.a.j@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ad
+ il_pain@mail.ru;X-NUM-GUESTS=0:mailto:adil_pain@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ad
+ inasag@gmail.com;X-NUM-GUESTS=0:mailto:adinasag@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ai
+ dana.boranbay@nu.edu.kz;X-NUM-GUESTS=0:mailto:aidana.boranbay@nu.edu.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ai
+ ganymbayadilova@gmail.com;X-NUM-GUESTS=0:mailto:aiganymbayadilova@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ai
+ na_bizhanova@mail.ru;X-NUM-GUESTS=0:mailto:aina_bizhanova@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ai
+ zhanaubakir@gmail.com;X-NUM-GUESTS=0:mailto:aizhanaubakir@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ak
+ nurturdaliyeva@gmail.com;X-NUM-GUESTS=0:mailto:aknurturdaliyeva@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ imkulyeldos@gmail.com;X-NUM-GUESTS=0:mailto:alimkulyeldos@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ mirabiss@gmail.com;X-NUM-GUESTS=0:mailto:almirabiss@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ el.talgatkyzy07@gmail.com;X-NUM-GUESTS=0:mailto:anel.talgatkyzy07@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ elyayerkinbek@gmail.com;X-NUM-GUESTS=0:mailto:anelyayerkinbek@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ar
+ uzhankumarova@gmail.com;X-NUM-GUESTS=0:mailto:aruzhankumarova@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=as
+ siya.meirmanova@alumni.nu.edu.kz;X-NUM-GUESTS=0:mailto:assiya.meirmanova@nu
+ .edu.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=as
+ tana98776@gmail.com;X-NUM-GUESTS=0:mailto:astana98776@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=az
+ at.kalimba@gmail.com;X-NUM-GUESTS=0:mailto:azat.kalimba@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ba
+ gissova.c@gmail.com;X-NUM-GUESTS=0:mailto:bagissova.c@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ba
+ lkhanov.com@gmail.com;X-NUM-GUESTS=0:mailto:balkhanov.com@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ba
+ lnur.yenshibay@gmail.com;X-NUM-GUESTS=0:mailto:balnur.yenshibay@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=be
+ kmyrza.ayazbekov@nu.edu.kz;X-NUM-GUESTS=0:mailto:bekmyrza.ayazbekov@nu.edu.
+ kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bo
+ mbitosss@gmail.com;X-NUM-GUESTS=0:mailto:bombitosss@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ irseitkazin@gmail.com;X-NUM-GUESTS=0:mailto:dairseitkazin@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ na.mikkonen@narxoz.kz;X-NUM-GUESTS=0:mailto:dana.mikkonen@narxoz.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ niyarlaiyk@gmail.com;X-NUM-GUESTS=0:mailto:daniyarlaiyk@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=di
+ anaasmv@gmail.com;X-NUM-GUESTS=0:mailto:dianaasmv@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=di
+ narabolatovna1998@gmail.com;X-NUM-GUESTS=0:mailto:dinarabolatovna1998@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=fa
+ rukh.knv@gmail.com;X-NUM-GUESTS=0:mailto:farukh.knv@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ga
+ liya.khairullayeva@kimep.kz;X-NUM-GUESTS=0:mailto:galiya.khairullayeva@kime
+ p.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ga
+ ryngazy@gmail.com;X-NUM-GUESTS=0:mailto:garyngazy@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=km
+ .yuraa1@gmail.com;X-NUM-GUESTS=0:mailto:km.yuraa1@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=la
+ ura.auken1@gmail.com;X-NUM-GUESTS=0:mailto:laura.auken1@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ 950611@gmail.com;X-NUM-GUESTS=0:mailto:ma950611@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ dina.jumagulova@alumni.nu.edu.kz;X-NUM-GUESTS=0:mailto:madina.jumagulova@al
+ umni.nu.edu.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ idawatulepk@gmail.com;X-NUM-GUESTS=0:mailto:maidawatulepk@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ ksimkabaev25@gmail.com;X-NUM-GUESTS=0:mailto:maksimkabaev25@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=me
+ .nurmanov@gmail.com;X-NUM-GUESTS=0:mailto:me.nurmanov@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=mu
+ khamejan.omar@gmail.com;X-NUM-GUESTS=0:mailto:mukhamejan.omar@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=n.
+ tazhimurat@gmail.com;X-NUM-GUESTS=0:mailto:n.tazhimurat@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=na
+ z.telgarayeva@gmail.com;X-NUM-GUESTS=0:mailto:naz.telgarayeva@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ns
+ idagalieva@gmail.com;X-NUM-GUESTS=0:mailto:nsidagalieva@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=nu
+ rlan.berdenovv@gmail.com;X-NUM-GUESTS=0:mailto:nurlan.berdenovv@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=nu
+ rseitseitzhanov@gmail.com;X-NUM-GUESTS=0:mailto:nurseitseitzhanov@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=nu
+ rzhan.shynbergenov@gmail.com;X-NUM-GUESTS=0:mailto:nurzhan.shynbergenov@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=or
+ azaliev.azamat@gmail.com;X-NUM-GUESTS=0:mailto:orazaliev.azamat@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ru
+ stam.kempirov@gmail.com;X-NUM-GUESTS=0:mailto:rustam.kempirov@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sa
+ dyralievaa9@gmail.com;X-NUM-GUESTS=0:mailto:sadyralievaa9@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sa
+ niya.amangalina@mail.ru;X-NUM-GUESTS=0:mailto:saniya.amangalina@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=te
+ mirlan.biman@kimep.kz;X-NUM-GUESTS=0:mailto:temirlan.biman@kimep.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ti
+ ma-abylkairov@mail.ru;X-NUM-GUESTS=0:mailto:tima-abylkairov@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=to
+ miris.bolatbekova@nu.edu.kz;X-NUM-GUESTS=0:mailto:tomiris.bolatbekova@nu.ed
+ u.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=tu
+ rsumbaevatk@gmail.com;X-NUM-GUESTS=0:mailto:tursumbaevatk@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ye
+ rassyltilemis@gmail.com;X-NUM-GUESTS=0:mailto:yerassyltilemis@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=za
+ tusays@gmail.com;X-NUM-GUESTS=0:mailto:zatusays@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=zh
+ .dariya00@gmail.com;X-NUM-GUESTS=0:mailto:zh.dariya00@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=zh
+ akanbay.diana@gmail.com;X-NUM-GUESTS=0:mailto:zhakanbay.diana@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=a-
+ uali@inbox.ru;X-NUM-GUESTS=0:mailto:a-uali@inbox.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ exanderkaribaev@yandex.kz;X-NUM-GUESTS=0:mailto:alexanderkaribaev@yandex.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=as
+ imbaeva99@mail.ru;X-NUM-GUESTS=0:mailto:asimbaeva99@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ba
+ lmakaev_sayat@mail.ru;X-NUM-GUESTS=0:mailto:balmakaev_sayat@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ba
+ rrikadovich@bk.ru;X-NUM-GUESTS=0:mailto:barrikadovich@bk.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ na-kultassova@mail.ru;X-NUM-GUESTS=0:mailto:dana-kultassova@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ na.yerlanova@yandex.ru;X-NUM-GUESTS=0:mailto:dana.yerlanova@yandex.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ naseryakova@yahoo.com;X-NUM-GUESTS=0:mailto:danaseryakova@yahoo.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dn
+ urbaeva@inbox.ru;X-NUM-GUESTS=0:mailto:dnurbaeva@inbox.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=el
+ shnizami@mail.ru;X-NUM-GUESTS=0:mailto:elshnizami@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=en
+ loka@mail.ru;X-NUM-GUESTS=0:mailto:enloka@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=er
+ lan_aden@mail.ru;X-NUM-GUESTS=0:mailto:erlan_aden@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ga
+ usau1@mail.ru;X-NUM-GUESTS=0:mailto:gausau1@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ka
+ mali-1999@mail.ru;X-NUM-GUESTS=0:mailto:kamali-1999@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ka
+ zeu2020@mail.ru;X-NUM-GUESTS=0:mailto:kazeu2020@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ko
+ pzhan.aidarkhan@mail.ru;X-NUM-GUESTS=0:mailto:kopzhan.aidarkhan@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ms
+ .tynybekova@inbox.ru;X-NUM-GUESTS=0:mailto:ms.tynybekova@inbox.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=na
+ rgiz0097@mail.ru;X-NUM-GUESTS=0:mailto:nargiz0097@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=os
+ panov_orazali@mail.ru;X-NUM-GUESTS=0:mailto:ospanov_orazali@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ru
+ slan_srm_99@bk.ru;X-NUM-GUESTS=0:mailto:ruslan_srm_99@bk.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=vi
+ ktoriya.shtelter@mail.ru;X-NUM-GUESTS=0:mailto:viktoriya.shtelter@mail.ru
+CREATED:20210430T041137Z
+DESCRIPTION:\nПрисоединяйся → Click here to join the meeting<https://teams.
+ microsoft.com/l/meetup-join/19%3ameeting_ODA0YjhlMzYtNjE4ZC00NjQyLWJmMGQtMz
+ kwYWMwMmI4MzQ1%40thread.v2/0?context=%7b%22Tid%22%3a%228b86a65e-3c3a-4406-8
+ ac3-19a6b5cc52bc%22%2c%22Oid%22%3a%2252a3e506-80fe-4ecd-acad-9e8bd278fa51%2
+ 2%7d>\n\n\nJoin with a video conferencing device\n12635748@t.plcm.vc<mailto
+ :12635748@t.plcm.vc>\nVideo Conference ID: 121 813 899 1\nAlternate VTC dia
+ ling instructions<https://dialin.plcm.vc/teams/?key=12635748&conf=121813899
+ 1>\nLearn More<https://aka.ms/JoinTeamsMeeting> | Meeting options<https://t
+ eams.microsoft.com/meetingOptions/?organizerId=52a3e506-80fe-4ecd-acad-9e8b
+ d278fa51&tenantId=8b86a65e-3c3a-4406-8ac3-19a6b5cc52bc&threadId=19_meeting_
+ ODA0YjhlMzYtNjE4ZC00NjQyLWJmMGQtMzkwYWMwMmI4MzQ1@thread.v2&messageId=0&lang
+ uage=en-US>\n\n\n
+LAST-MODIFIED:20221220T070920Z
+LOCATION:MS Teams
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:#PMBA_Модуль 3: Маркетинг с завязанными глазами 
+TRANSP:OPAQUE
+ATTACH;FILENAME=ATT10007 1.jpg:?view=att&th=17920f9bb99d0f2f&attid=0.1&disp
+ =attd&zw
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-OWNERAPPTID:-1065465883
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-LOCATIONS:[{"DisplayName":"MS Teams"\,"LocationAnnotation":""\,
+ "LocationUri":""\,"LocationStreet":""\,"LocationCity":""\,"LocationState":"
+ "\,"LocationCountry":""\,"LocationPostalCode":""\,"LocationFullAddress":""}
+ ]
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210607T070000Z
+DTEND:20210607T080000Z
+DTSTAMP:20230525T210935Z
+ORGANIZER;CN=Aidana SEITZHANKYZY:mailto:aidana.seitzhankyzy@danone.com
+UID:062f45ee-b41e-4bcd-8e3e-37d6db330fe0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mukham
+ ejan.omar@gmail.com;X-NUM-GUESTS=0:mailto:mukhamejan.omar@gmail.com
+CREATED:20210531T093612Z
+DESCRIPTION:\n\n\n\n\nПРИСОЕДИНИТЬСЯ К СОВЕЩАНИЮ WEBEX\nhttps://mydanone.we
+ bex.com/mydanone-ru/j.php?MTID=me7dcb0ff4cbbfd4d3127ff19b41abebb\nНомер сов
+ ещания (код доступа): 163 484 1219\n\nПароль совещания: MfaHDPFt268 (632437
+ 38 с телефонов и видеосистем)\n\n\n\nКОСНИТЕСЬ ДЛЯ ПРИСОЕДИНЕНИЯ С МОБИЛЬНО
+ ГО УСТРОЙСТВА (ТОЛЬКО ДЛЯ ПОСЕТИТЕЛЕЙ)\n+33-1-7091-8646\,\,1634841219#63243
+ 738# tel:%2B33-1-7091-8646\,\,*01*1634841219%2363243738%23*01* France Toll\
+ nНа некоторых мобильных устройствах посетителям может потребоваться ввести 
+ числовой пароль.\n\n\nПРИСОЕДИНЕНИЕ ПО ТЕЛЕФОНУ\n+33-1-7091-8646 France Tol
+ l\n\nГлобальные номера телефонов системы\nhttps://mydanone.webex.com/mydano
+ ne/globalcallin.php?MTID=ma40739433e5b9843c0c5130bb7c3b5d9\n\n\nПРИСОЕДИНЕН
+ ИЕ С ПОМОЩЬЮ ВИДЕОСИСТЕМЫ ИЛИ ПРИЛОЖЕНИЯ\nНаберите sip:1634841219@mydanone.
+ webex.com\nТакже можно набрать 62.109.219.4 и ввести номер совещания.\nFor 
+ internal mydanone.webex.com users\, dial *77*+"Access Code" (Access code is
+  the 9 digit numbers)\n\n\nПрисоединение с использованием Microsoft Lync ил
+ и Microsoft Skype для бизнеса\nНаберите sip:1634841219.mydanone@lync.webex.
+ com\n\n\n\n\n\nНе удается присоединиться к совещанию?\nhttps://collaboratio
+ nhelp.cisco.com/article/WBX000029055\n\n\nВНИМАНИЕ! В этой службе Webex воз
+ можна запись аудио и другой информации\, отправленной в ходе совещания. Эта
+  информация может быть раскрыта в в соответствии с законодательством. Присо
+ единяясь к сеансу\, вы автоматически соглашаетесь с проведением таких запис
+ ей. Если вы не согласны с проведением записи\, обсудите это с организатором
+  или не присоединяйтесь к сеансу.\n
+LAST-MODIFIED:20221220T070919Z
+LOCATION:https://mydanone.webex.com/mydanone-ru/j.php?MTID=me7dcb0ff4cbbfd4
+ d3127ff19b41abebb
+SEQUENCE:1622453772
+STATUS:CONFIRMED
+SUMMARY:Danone Young Pro_AC_знакомство
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210716T080000Z
+DTEND:20210716T085000Z
+DTSTAMP:20230525T210935Z
+ORGANIZER;CN="Bermukhamedova, Assem":mailto:assem.bermukhamedova@jti.com
+UID:040000008200E00074C5B7101A82E008000000003015224FA26ED701000000000000000
+ 01000000063D7EDB044C1CE439795BFEAC4097606
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mukham
+ ejan.omar@gmail.com;X-NUM-GUESTS=0:mailto:mukhamejan.omar@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN="G
+ azizov, Ramil";X-NUM-GUESTS=0:mailto:ramil.gazizov@jti.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN="Z
+ hursinbekova, Adina";X-NUM-GUESTS=0:mailto:adina.zhursinbekova@jti.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN="P
+ etrovskaya, Alina";X-NUM-GUESTS=0:mailto:alina.petrovskaya@jti.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN="M
+ ishustin, Dmitriy";X-NUM-GUESTS=0:mailto:dmitriy.mishustin@jti.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN="K
+ hassanova, Kamila";X-NUM-GUESTS=0:mailto:kamila.khassanova@jti.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN="P
+ olkovnikov, Yuriy";X-NUM-GUESTS=0:mailto:yuriy.polkovnikov@jti.com
+CREATED:20210715T123854Z
+DESCRIPTION:[cid:image001.png@01D76EA2.BD4A7610]\n\nМухамеджан\,\n\nКомпани
+ я «JTI Kazakhstan» предлагает Вам принять участие в финальном интервью с би
+ знес\nфункцией (Engineering) в рамках конкурсного отбора на программу\nстаж
+ ировок «Make It Bright»\, 16.07.2021 в 14:00 (по времени Алматы).\nВидео-фо
+ рмат интервью.\n\nСсылка на подключение к митингу ниже.\n\nС уважением\,\nJ
+ TI Kazakhstan\,\nPeople & Culture\n\n______________________________________
+ __________________________________________\nMicrosoft Teams meeting\nJoin o
+ n your computer or mobile app\nClick here to join the meeting<https://teams
+ .microsoft.com/l/meetup-join/19%3ameeting_MzQyNmY5NjUtYzllMC00ZDc4LTg5ZjktY
+ zVhOWQ2NTIxZWZj%40thread.v2/0?context=%7b%22Tid%22%3a%22705d07a3-2eea-4f3b-
+ ab59-65ca29abeb26%22%2c%22Oid%22%3a%228946ae9a-7715-4cae-bde0-8df9c0db95b4%
+ 22%7d>\nJoin with a video conferencing device\njti.teams@meet.call.vc<mailt
+ o:jti.teams@meet.call.vc>\nVideo Conference ID: 125 468 577 3\nAlternate VT
+ C dialing instructions<https://www.kinly.com/teams/?conf=1254685773&ivr=jti
+ .teams&d=meet.call.vc&test=test_call&prefix=jti.>\nOr call in (audio only)\
+ n+41 44 561 58 46\,\,849070311#<tel:+41445615846\,\,849070311#>   Switzerla
+ nd\, Zurich/Zürich/Zurigo (Zurich)\nPhone Conference ID: 849 070 311#\nFind
+  a local number<https://dialin.teams.microsoft.com/1d37c703-07d6-4d8a-9b9f-
+ 0cc6baacee2b?id=849070311> | Reset PIN<https://mysettings.lync.com/pstnconf
+ erencing>\nIf you have questions on how to join a Teams meeting\, please fo
+ llow the link below.\nLearn More<https://aka.ms/JoinTeamsMeeting> | Help<ht
+ tps://jti.service-now.com/sp?id=kb_article_view&sysparm_article=KB18261> | 
+ Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=894
+ 6ae9a-7715-4cae-bde0-8df9c0db95b4&tenantId=705d07a3-2eea-4f3b-ab59-65ca29ab
+ eb26&threadId=19_meeting_MzQyNmY5NjUtYzllMC00ZDc4LTg5ZjktYzVhOWQ2NTIxZWZj@t
+ hread.v2&messageId=0&language=en-US>\n_____________________________________
+ ___________________________________________\n\n____________________________
+ ____\n\nОсы электрондық хат\, бүкіл қосымшаларын қоса алғанда\, "Джей Ти Ай
+  Қазақстан" ЖШС-не тиесілі және жоғарыда көрсетілген хат алушыға арналған қ
+ ұпия ақпаратты құрайды. Егер де\, сіз осы хаттың тиісті алушысы немесе осы 
+ хатты тиісті алушысына жеткізуге жауапты агент болмасаңыз\, осы құжатты қат
+ елікпен алғаныңызды және оның құрамы жайындағы кез-келген әрекетіңізге оны 
+ қарау\, ашу\, көшіру және тарату қатан тиым салынатынына біз осымен сізге х
+ абар етеміз. Осындай жағдайда\, кідірмей хат жіберушіге хабар беріп осы эле
+ ктрондық хатты\, бүкіл қосымшаларын қоса\, өз жүйеңізден жойыңыз.\n\nНастоя
+ щее электронное сообщение\, включая все имеющиеся приложения\, содержит кон
+ фиденциальную информацию\, принадлежащую ТОО "Джей Ти Ай Казахстан"\, и пре
+ дназначено только для указанного выше получателя. Если вы не являетесь надл
+ ежащим получателем или агентом\, отвечающим за доставку настоящего сообщени
+ я надлежащему получателю\, то настоящим сообщаем вам о том\, что вы получил
+ и настоящий документ по ошибке\, и любые действия в отношении его содержани
+ я\, включая просмотр\, раскрытие\, копирование и распространение\, строго з
+ апрещены. В этом случае\, пожалуйста\, незамедлительно уведомите отправител
+ я и удалите настоящее электронное сообщение\, включая все имеющиеся приложе
+ ния\, из вашей системы.\n\nThis e-mail message including any attachments co
+ ntains confidential information that belongs to JTI Kazakhstan LLC and is i
+ ntended only for the recipient named above. If you are not the intended rec
+ ipient or an agent responsible for delivering it to the intended recipient\
+ , you are hereby notified that you have received this document in error and
+  that taking any action in relation to its contents including review\, disc
+ losing\, copying\, or distributing is strictly prohibited. In this case\, p
+ lease notify the sender immediately and delete this e-mail message includin
+ g attachment(s) from your SYSTEM.\n
+LAST-MODIFIED:20221220T070915Z
+LOCATION:Microsoft Teams Meeting
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Конкурсный отбор на программу стажировок MAKE IT BRIGHT
+TRANSP:OPAQUE
+ATTACH;FILENAME=image001.png:?view=att&th=17aaa2e43d03cf3e&attid=0.1&disp=a
+ ttd&zw
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-APPT-SEQUENCE:2
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-OWNERAPPTID:-1803454491
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-LOCATIONS:[ { "DisplayName" : "Microsoft Teams Meeting"\, "Loca
+ tionAnnotation" : ""\, "LocationSource" : 0\, "Unresolved" : false\, "Locat
+ ionUri" : "" } ]
+X-MICROSOFT-ONLINEMEETINGCONFLINK:conf:sip:Assem.Bermukhamedova@jti.com\;gr
+ uu\;opaque=app:conf:focus:id:teams:2:0!19:meeting_MzQyNmY5NjUtYzllMC00ZDc4L
+ Tg5ZjktYzVhOWQ2NTIxZWZj-thread.v2!8946ae9a77154caebde08df9c0db95b4!705d07a3
+ 2eea4f3bab5965ca29abeb26
+X-MICROSOFT-ONLINEMEETINGINFORMATION:{"OnlineMeetingChannelId":null\,"Onlin
+ eMeetingProvider":3}
+X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api.scheduler.teams.microsof
+ t.com/teams/705d07a3-2eea-4f3b-ab59-65ca29abeb26/8946ae9a-7715-4cae-bde0-8d
+ f9c0db95b4/19_meeting_MzQyNmY5NjUtYzllMC00ZDc4LTg5ZjktYzVhOWQ2NTIxZWZj@thre
+ ad.v2/0
+X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_MzQyNmY5NjUtYzllMC00ZDc4LTg5ZjktYzVhOWQ2NTIxZWZj%40thread.v2/0
+ ?context=%7b%22Tid%22%3a%22705d07a3-2eea-4f3b-ab59-65ca29abeb26%22%2c%22Oid
+ %22%3a%228946ae9a-7715-4cae-bde0-8df9c0db95b4%22%7d
+X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_MzQyNmY5NjUtYzllMC00ZDc
+ 4LTg5ZjktYzVhOWQ2NTIxZWZj@thread.v2"\,"private":true\,"type":0\,"mid":0\,"r
+ id":0\,"uid":null}
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210428T090000Z
+DTEND:20210428T110000Z
+DTSTAMP:20230525T210935Z
+ORGANIZER;CN="Kim, Yuliya (contracted)":mailto:yuliya.kim@contracted.pmi.co
+ m
+UID:040000008200E00074C5B7101A82E00800000000E018A1B8C63AD701000000000000000
+ 0100000004193C6151F6E354182F21CC547EEFDBF
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=17
+ 08.a.j@gmail.com;X-NUM-GUESTS=0:mailto:1708.a.j@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ad
+ il_pain@mail.ru;X-NUM-GUESTS=0:mailto:adil_pain@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ad
+ inasag@gmail.com;X-NUM-GUESTS=0:mailto:adinasag@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ai
+ dana.boranbay@nu.edu.kz;X-NUM-GUESTS=0:mailto:aidana.boranbay@nu.edu.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ai
+ ganymbayadilova@gmail.com;X-NUM-GUESTS=0:mailto:aiganymbayadilova@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ai
+ na_bizhanova@mail.ru;X-NUM-GUESTS=0:mailto:aina_bizhanova@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ai
+ zhanaubakir@gmail.com;X-NUM-GUESTS=0:mailto:aizhanaubakir@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ak
+ nurturdaliyeva@gmail.com;X-NUM-GUESTS=0:mailto:aknurturdaliyeva@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ imkulyeldos@gmail.com;X-NUM-GUESTS=0:mailto:alimkulyeldos@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ mirabiss@gmail.com;X-NUM-GUESTS=0:mailto:almirabiss@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ el.talgatkyzy07@gmail.com;X-NUM-GUESTS=0:mailto:anel.talgatkyzy07@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ elyayerkinbek@gmail.com;X-NUM-GUESTS=0:mailto:anelyayerkinbek@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ar
+ ayka0299@gmail.com;X-NUM-GUESTS=0:mailto:arayka0299@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ar
+ uzhankumarova@gmail.com;X-NUM-GUESTS=0:mailto:aruzhankumarova@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=as
+ sem.aliakbar@nu.edu.kz;X-NUM-GUESTS=0:mailto:assem.aliakbar@nu.edu.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=as
+ siya.meirmanova@alumni.nu.edu.kz;X-NUM-GUESTS=0:mailto:assiya.meirmanova@nu
+ .edu.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=as
+ tana98776@gmail.com;X-NUM-GUESTS=0:mailto:astana98776@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=az
+ at.kalimba@gmail.com;X-NUM-GUESTS=0:mailto:azat.kalimba@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ba
+ gissova.c@gmail.com;X-NUM-GUESTS=0:mailto:bagissova.c@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ba
+ lkhanov.com@gmail.com;X-NUM-GUESTS=0:mailto:balkhanov.com@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ba
+ lnur.yenshibay@gmail.com;X-NUM-GUESTS=0:mailto:balnur.yenshibay@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bb
+ blair1313@gmail.com;X-NUM-GUESTS=0:mailto:bbblair1313@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=be
+ kmyrza.ayazbekov@nu.edu.kz;X-NUM-GUESTS=0:mailto:bekmyrza.ayazbekov@nu.edu.
+ kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bo
+ mbitosss@gmail.com;X-NUM-GUESTS=0:mailto:bombitosss@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ irseitkazin@gmail.com;X-NUM-GUESTS=0:mailto:dairseitkazin@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ na.mikkonen@narxoz.kz;X-NUM-GUESTS=0:mailto:dana.mikkonen@narxoz.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ niyarlaiyk@gmail.com;X-NUM-GUESTS=0:mailto:daniyarlaiyk@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=di
+ anaasmv@gmail.com;X-NUM-GUESTS=0:mailto:dianaasmv@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=di
+ narabolatovna1998@gmail.com;X-NUM-GUESTS=0:mailto:dinarabolatovna1998@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=fa
+ rukh.knv@gmail.com;X-NUM-GUESTS=0:mailto:farukh.knv@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ga
+ liya.khairullayeva@kimep.kz;X-NUM-GUESTS=0:mailto:galiya.khairullayeva@kime
+ p.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ga
+ ryngazy@gmail.com;X-NUM-GUESTS=0:mailto:garyngazy@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=kh
+ makhambetkh@gmail.com;X-NUM-GUESTS=0:mailto:khmakhambetkh@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=km
+ .yuraa1@gmail.com;X-NUM-GUESTS=0:mailto:km.yuraa1@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=la
+ ura.auken1@gmail.com;X-NUM-GUESTS=0:mailto:laura.auken1@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ 950611@gmail.com;X-NUM-GUESTS=0:mailto:ma950611@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ dina.jumagulova@alumni.nu.edu.kz;X-NUM-GUESTS=0:mailto:madina.jumagulova@al
+ umni.nu.edu.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ idawatulepk@gmail.com;X-NUM-GUESTS=0:mailto:maidawatulepk@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ ksimkabaev25@gmail.com;X-NUM-GUESTS=0:mailto:maksimkabaev25@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=me
+ .nurmanov@gmail.com;X-NUM-GUESTS=0:mailto:me.nurmanov@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=mu
+ khamejan.omar@gmail.com;X-NUM-GUESTS=0:mailto:mukhamejan.omar@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=n.
+ tazhimurat@gmail.com;X-NUM-GUESTS=0:mailto:n.tazhimurat@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=na
+ z.telgarayeva@gmail.com;X-NUM-GUESTS=0:mailto:naz.telgarayeva@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ns
+ idagalieva@gmail.com;X-NUM-GUESTS=0:mailto:nsidagalieva@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=nu
+ rlan.berdenovv@gmail.com;X-NUM-GUESTS=0:mailto:nurlan.berdenovv@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=nu
+ rseitseitzhanov@gmail.com;X-NUM-GUESTS=0:mailto:nurseitseitzhanov@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=nu
+ rzhan.shynbergenov@gmail.com;X-NUM-GUESTS=0:mailto:nurzhan.shynbergenov@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ol
+ zhasforbusiness@gmail.com;X-NUM-GUESTS=0:mailto:olzhasforbusiness@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=or
+ azaliev.azamat@gmail.com;X-NUM-GUESTS=0:mailto:orazaliev.azamat@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ra
+ khat.altynshash.b@gmail.com;X-NUM-GUESTS=0:mailto:rakhat.altynshash.b@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ru
+ stam.kempirov@gmail.com;X-NUM-GUESTS=0:mailto:rustam.kempirov@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sa
+ dyralievaa9@gmail.com;X-NUM-GUESTS=0:mailto:sadyralievaa9@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sa
+ niya.amangalina@mail.ru;X-NUM-GUESTS=0:mailto:saniya.amangalina@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=te
+ mirlan.biman@kimep.kz;X-NUM-GUESTS=0:mailto:temirlan.biman@kimep.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ti
+ ma-abylkairov@mail.ru;X-NUM-GUESTS=0:mailto:tima-abylkairov@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=to
+ miris.bolatbekova@nu.edu.kz;X-NUM-GUESTS=0:mailto:tomiris.bolatbekova@nu.ed
+ u.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=tu
+ rsumbaevatk@gmail.com;X-NUM-GUESTS=0:mailto:tursumbaevatk@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ye
+ rassyltilemis@gmail.com;X-NUM-GUESTS=0:mailto:yerassyltilemis@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=za
+ tusays@gmail.com;X-NUM-GUESTS=0:mailto:zatusays@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=zh
+ .dariya00@gmail.com;X-NUM-GUESTS=0:mailto:zh.dariya00@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=zh
+ akanbay.diana@gmail.com;X-NUM-GUESTS=0:mailto:zhakanbay.diana@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=a-
+ uali@inbox.ru;X-NUM-GUESTS=0:mailto:a-uali@inbox.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ exanderkaribaev@yandex.kz;X-NUM-GUESTS=0:mailto:alexanderkaribaev@yandex.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=as
+ imbaeva99@mail.ru;X-NUM-GUESTS=0:mailto:asimbaeva99@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ba
+ lmakaev_sayat@mail.ru;X-NUM-GUESTS=0:mailto:balmakaev_sayat@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ba
+ rrikadovich@bk.ru;X-NUM-GUESTS=0:mailto:barrikadovich@bk.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ na-kultassova@mail.ru;X-NUM-GUESTS=0:mailto:dana-kultassova@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ na.yerlanova@yandex.ru;X-NUM-GUESTS=0:mailto:dana.yerlanova@yandex.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ naseryakova@yahoo.com;X-NUM-GUESTS=0:mailto:danaseryakova@yahoo.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dn
+ urbaeva@inbox.ru;X-NUM-GUESTS=0:mailto:dnurbaeva@inbox.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=el
+ shnizami@mail.ru;X-NUM-GUESTS=0:mailto:elshnizami@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=en
+ loka@mail.ru;X-NUM-GUESTS=0:mailto:enloka@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=er
+ lan_aden@mail.ru;X-NUM-GUESTS=0:mailto:erlan_aden@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ga
+ usau1@mail.ru;X-NUM-GUESTS=0:mailto:gausau1@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ka
+ mali-1999@mail.ru;X-NUM-GUESTS=0:mailto:kamali-1999@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ka
+ zeu2020@mail.ru;X-NUM-GUESTS=0:mailto:kazeu2020@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ko
+ pzhan.aidarkhan@mail.ru;X-NUM-GUESTS=0:mailto:kopzhan.aidarkhan@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ dina-muslimova@bk.ru;X-NUM-GUESTS=0:mailto:madina-muslimova@bk.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ms
+ .tynybekova@inbox.ru;X-NUM-GUESTS=0:mailto:ms.tynybekova@inbox.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=na
+ rgiz0097@mail.ru;X-NUM-GUESTS=0:mailto:nargiz0097@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=os
+ panov_orazali@mail.ru;X-NUM-GUESTS=0:mailto:ospanov_orazali@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ru
+ slan_srm_99@bk.ru;X-NUM-GUESTS=0:mailto:ruslan_srm_99@bk.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=un
+ predictable00007@mail.ru;X-NUM-GUESTS=0:mailto:unpredictable00007@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=vi
+ ktoriya.shtelter@mail.ru;X-NUM-GUESTS=0:mailto:viktoriya.shtelter@mail.ru
+CREATED:20210427T024027Z
+DESCRIPTION:\nПрисоединяйся → Click here to join the meeting<https://teams.
+ microsoft.com/l/meetup-join/19%3ameeting_ODA0YjhlMzYtNjE4ZC00NjQyLWJmMGQtMz
+ kwYWMwMmI4MzQ1%40thread.v2/0?context=%7b%22Tid%22%3a%228b86a65e-3c3a-4406-8
+ ac3-19a6b5cc52bc%22%2c%22Oid%22%3a%2252a3e506-80fe-4ecd-acad-9e8bd278fa51%2
+ 2%7d>\n\nJoin with a video conferencing device\n12635748@t.plcm.vc<mailto:1
+ 2635748@t.plcm.vc>\nVideo Conference ID: 121 813 899 1\nAlternate VTC diali
+ ng instructions<https://dialin.plcm.vc/teams/?key=12635748&conf=1218138991>
+ \nLearn More<https://aka.ms/JoinTeamsMeeting> | Meeting options<https://tea
+ ms.microsoft.com/meetingOptions/?organizerId=52a3e506-80fe-4ecd-acad-9e8bd2
+ 78fa51&tenantId=8b86a65e-3c3a-4406-8ac3-19a6b5cc52bc&threadId=19_meeting_OD
+ A0YjhlMzYtNjE4ZC00NjQyLWJmMGQtMzkwYWMwMmI4MzQ1@thread.v2&messageId=0&langua
+ ge=en-US>\n\n\n\n
+LAST-MODIFIED:20221220T070912Z
+LOCATION:MS teams
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:#PMBA_Модуль 1: Всё о PMBA и даже больше!
+TRANSP:OPAQUE
+ATTACH;FILENAME=ATT20254 1.jpg:?view=att&th=179113337189d0d6&attid=0.1&disp
+ =attd&zw
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-OWNERAPPTID:-1726265371
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-LOCATIONS:[{"DisplayName":"MS teams"\,"LocationAnnotation":""\,
+ "LocationUri":""\,"LocationStreet":""\,"LocationCity":""\,"LocationState":"
+ "\,"LocationCountry":""\,"LocationPostalCode":""\,"LocationFullAddress":""}
+ ]
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210511T070000Z
+DTEND:20210511T090000Z
+DTSTAMP:20230525T210935Z
+ORGANIZER;CN="Kim, Yuliya (contracted)":mailto:yuliya.kim@contracted.pmi.co
+ m
+UID:040000008200E00074C5B7101A82E00800000000F01DBE073546D701000000000000000
+ 010000000131D96A1BDA8F24BAE6A3090230F7878
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=17
+ 08.a.j@gmail.com;X-NUM-GUESTS=0:mailto:1708.a.j@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ad
+ il_pain@mail.ru;X-NUM-GUESTS=0:mailto:adil_pain@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ad
+ inasag@gmail.com;X-NUM-GUESTS=0:mailto:adinasag@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ai
+ dana.boranbay@nu.edu.kz;X-NUM-GUESTS=0:mailto:aidana.boranbay@nu.edu.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ai
+ ganymbayadilova@gmail.com;X-NUM-GUESTS=0:mailto:aiganymbayadilova@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ai
+ na_bizhanova@mail.ru;X-NUM-GUESTS=0:mailto:aina_bizhanova@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ai
+ zhanaubakir@gmail.com;X-NUM-GUESTS=0:mailto:aizhanaubakir@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ak
+ nurturdaliyeva@gmail.com;X-NUM-GUESTS=0:mailto:aknurturdaliyeva@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ imkulyeldos@gmail.com;X-NUM-GUESTS=0:mailto:alimkulyeldos@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ mirabiss@gmail.com;X-NUM-GUESTS=0:mailto:almirabiss@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ el.talgatkyzy07@gmail.com;X-NUM-GUESTS=0:mailto:anel.talgatkyzy07@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ elyayerkinbek@gmail.com;X-NUM-GUESTS=0:mailto:anelyayerkinbek@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ar
+ uzhankumarova@gmail.com;X-NUM-GUESTS=0:mailto:aruzhankumarova@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=as
+ siya.meirmanova@alumni.nu.edu.kz;X-NUM-GUESTS=0:mailto:assiya.meirmanova@nu
+ .edu.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=as
+ tana98776@gmail.com;X-NUM-GUESTS=0:mailto:astana98776@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=az
+ at.kalimba@gmail.com;X-NUM-GUESTS=0:mailto:azat.kalimba@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ba
+ gissova.c@gmail.com;X-NUM-GUESTS=0:mailto:bagissova.c@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ba
+ lkhanov.com@gmail.com;X-NUM-GUESTS=0:mailto:balkhanov.com@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ba
+ lnur.yenshibay@gmail.com;X-NUM-GUESTS=0:mailto:balnur.yenshibay@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=be
+ kmyrza.ayazbekov@nu.edu.kz;X-NUM-GUESTS=0:mailto:bekmyrza.ayazbekov@nu.edu.
+ kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bo
+ mbitosss@gmail.com;X-NUM-GUESTS=0:mailto:bombitosss@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ irseitkazin@gmail.com;X-NUM-GUESTS=0:mailto:dairseitkazin@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ na.mikkonen@narxoz.kz;X-NUM-GUESTS=0:mailto:dana.mikkonen@narxoz.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ niyarlaiyk@gmail.com;X-NUM-GUESTS=0:mailto:daniyarlaiyk@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=di
+ anaasmv@gmail.com;X-NUM-GUESTS=0:mailto:dianaasmv@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=di
+ narabolatovna1998@gmail.com;X-NUM-GUESTS=0:mailto:dinarabolatovna1998@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ga
+ liya.khairullayeva@kimep.kz;X-NUM-GUESTS=0:mailto:galiya.khairullayeva@kime
+ p.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ga
+ ryngazy@gmail.com;X-NUM-GUESTS=0:mailto:garyngazy@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=km
+ .yuraa1@gmail.com;X-NUM-GUESTS=0:mailto:km.yuraa1@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=la
+ ura.auken1@gmail.com;X-NUM-GUESTS=0:mailto:laura.auken1@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ 950611@gmail.com;X-NUM-GUESTS=0:mailto:ma950611@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ dina.jumagulova@alumni.nu.edu.kz;X-NUM-GUESTS=0:mailto:madina.jumagulova@al
+ umni.nu.edu.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ idawatulepk@gmail.com;X-NUM-GUESTS=0:mailto:maidawatulepk@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ ksimkabaev25@gmail.com;X-NUM-GUESTS=0:mailto:maksimkabaev25@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=me
+ .nurmanov@gmail.com;X-NUM-GUESTS=0:mailto:me.nurmanov@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=mu
+ khamejan.omar@gmail.com;X-NUM-GUESTS=0:mailto:mukhamejan.omar@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=n.
+ tazhimurat@gmail.com;X-NUM-GUESTS=0:mailto:n.tazhimurat@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=na
+ z.telgarayeva@gmail.com;X-NUM-GUESTS=0:mailto:naz.telgarayeva@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ns
+ idagalieva@gmail.com;X-NUM-GUESTS=0:mailto:nsidagalieva@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=nu
+ rlan.berdenovv@gmail.com;X-NUM-GUESTS=0:mailto:nurlan.berdenovv@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=nu
+ rseitseitzhanov@gmail.com;X-NUM-GUESTS=0:mailto:nurseitseitzhanov@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=nu
+ rzhan.shynbergenov@gmail.com;X-NUM-GUESTS=0:mailto:nurzhan.shynbergenov@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=or
+ azaliev.azamat@gmail.com;X-NUM-GUESTS=0:mailto:orazaliev.azamat@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ru
+ stam.kempirov@gmail.com;X-NUM-GUESTS=0:mailto:rustam.kempirov@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sa
+ dyralievaa9@gmail.com;X-NUM-GUESTS=0:mailto:sadyralievaa9@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sa
+ niya.amangalina@mail.ru;X-NUM-GUESTS=0:mailto:saniya.amangalina@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=te
+ mirlan.biman@kimep.kz;X-NUM-GUESTS=0:mailto:temirlan.biman@kimep.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ti
+ ma-abylkairov@mail.ru;X-NUM-GUESTS=0:mailto:tima-abylkairov@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=to
+ miris.bolatbekova@nu.edu.kz;X-NUM-GUESTS=0:mailto:tomiris.bolatbekova@nu.ed
+ u.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=tu
+ rsumbaevatk@gmail.com;X-NUM-GUESTS=0:mailto:tursumbaevatk@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ye
+ rassyltilemis@gmail.com;X-NUM-GUESTS=0:mailto:yerassyltilemis@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=za
+ tusays@gmail.com;X-NUM-GUESTS=0:mailto:zatusays@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=zh
+ .dariya00@gmail.com;X-NUM-GUESTS=0:mailto:zh.dariya00@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=zh
+ akanbay.diana@gmail.com;X-NUM-GUESTS=0:mailto:zhakanbay.diana@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=a-
+ uali@inbox.ru;X-NUM-GUESTS=0:mailto:a-uali@inbox.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ exanderkaribaev@yandex.kz;X-NUM-GUESTS=0:mailto:alexanderkaribaev@yandex.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=as
+ imbaeva99@mail.ru;X-NUM-GUESTS=0:mailto:asimbaeva99@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ba
+ lmakaev_sayat@mail.ru;X-NUM-GUESTS=0:mailto:balmakaev_sayat@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ na-kultassova@mail.ru;X-NUM-GUESTS=0:mailto:dana-kultassova@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ na.yerlanova@yandex.ru;X-NUM-GUESTS=0:mailto:dana.yerlanova@yandex.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ naseryakova@yahoo.com;X-NUM-GUESTS=0:mailto:danaseryakova@yahoo.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dn
+ urbaeva@inbox.ru;X-NUM-GUESTS=0:mailto:dnurbaeva@inbox.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=el
+ shnizami@mail.ru;X-NUM-GUESTS=0:mailto:elshnizami@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=en
+ loka@mail.ru;X-NUM-GUESTS=0:mailto:enloka@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=er
+ lan_aden@mail.ru;X-NUM-GUESTS=0:mailto:erlan_aden@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ga
+ usau1@mail.ru;X-NUM-GUESTS=0:mailto:gausau1@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ka
+ mali-1999@mail.ru;X-NUM-GUESTS=0:mailto:kamali-1999@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ka
+ zeu2020@mail.ru;X-NUM-GUESTS=0:mailto:kazeu2020@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ko
+ pzhan.aidarkhan@mail.ru;X-NUM-GUESTS=0:mailto:kopzhan.aidarkhan@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=na
+ rgiz0097@mail.ru;X-NUM-GUESTS=0:mailto:nargiz0097@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=os
+ panov_orazali@mail.ru;X-NUM-GUESTS=0:mailto:ospanov_orazali@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ru
+ slan_srm_99@bk.ru;X-NUM-GUESTS=0:mailto:ruslan_srm_99@bk.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=vi
+ ktoriya.shtelter@mail.ru;X-NUM-GUESTS=0:mailto:viktoriya.shtelter@mail.ru
+CREATED:20210511T012037Z
+DESCRIPTION:\nПрисоединяйся в 13.00→ Click here to join the meeting<https:/
+ /teams.microsoft.com/l/meetup-join/19%3ameeting_ODA0YjhlMzYtNjE4ZC00NjQyLWJ
+ mMGQtMzkwYWMwMmI4MzQ1%40thread.v2/0?context=%7b%22Tid%22%3a%228b86a65e-3c3a
+ -4406-8ac3-19a6b5cc52bc%22%2c%22Oid%22%3a%2252a3e506-80fe-4ecd-acad-9e8bd27
+ 8fa51%22%7d>\n\n\nJoin with a video conferencing device\n12635748@t.plcm.vc
+ <mailto:12635748@t.plcm.vc>\nVideo Conference ID: 121 813 899 1\nAlternate 
+ VTC dialing instructions<https://dialin.plcm.vc/teams/?key=12635748&conf=12
+ 18138991>\nLearn More<https://aka.ms/JoinTeamsMeeting> | Meeting options<ht
+ tps://teams.microsoft.com/meetingOptions/?organizerId=52a3e506-80fe-4ecd-ac
+ ad-9e8bd278fa51&tenantId=8b86a65e-3c3a-4406-8ac3-19a6b5cc52bc&threadId=19_m
+ eeting_ODA0YjhlMzYtNjE4ZC00NjQyLWJmMGQtMzkwYWMwMmI4MzQ1@thread.v2&messageId
+ =0&language=en-US>\n\n\n
+LAST-MODIFIED:20221220T070911Z
+LOCATION:MS Teams
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PMBA: Модуль 5: Секреты и мифы отдела продаж
+TRANSP:OPAQUE
+ATTACH;FILENAME=ATT96648 1.jpg:?view=att&th=179590487553653a&attid=0.1&disp
+ =attd&zw
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-OWNERAPPTID:1728796645
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-LOCATIONS:[{"DisplayName":"MS Teams"\,"LocationAnnotation":""\,
+ "LocationUri":""\,"LocationStreet":""\,"LocationCity":""\,"LocationState":"
+ "\,"LocationCountry":""\,"LocationPostalCode":""\,"LocationFullAddress":""}
+ ]
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210615T053000Z
+DTEND:20210615T060000Z
+DTSTAMP:20230525T210935Z
+ORGANIZER;CN="Imtossimi, Anastassiya (contracted)":mailto:anastassiya.imtos
+ simi@contracted.pmi.com
+UID:040000008200E00074C5B7101A82E00800000000CE2CA3DF0361D701000000000000000
+ 010000000AA2C84677E90B64E8CCF88261A3E5917
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mukham
+ ejan.omar@gmail.com;X-NUM-GUESTS=0:mailto:mukhamejan.omar@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN="D
+ yussenova, Zhupar (contracted)";X-NUM-GUESTS=0:mailto:zhupar.dyussenova@con
+ tracted.pmi.com
+CREATED:20210614T095850Z
+DESCRIPTION:Dear Mukhamejan\,\nWe are glad to invite you on interview on Tu
+ esday  at 11:30\nPlease\, follow the link below to join\n\nSee you!\n\n\nBe
+ st regards\,\n\nAnastassiya Imtossimi\n\nJunior recruiter\n\n| People & Cul
+ ture Kazakhstan\n040700\, Almaty oblast\, 90\, Iliyas Zhansugurov\; Otegen 
+ Batyr Village\nPHILIP MORRIS KAZAKHSTAN LLP\n\n\n\nM: +7 (747) 793 43 49|\n
+ \n\n_______________________________________________________________________
+ _________\nMicrosoft Teams meeting\nJoin on your computer or mobile app\nCl
+ ick here to join the meeting<https://teams.microsoft.com/l/meetup-join/19%3
+ ameeting_NWRjNDdlNDQtNTFjZi00ZTg4LWI0ZjktZmU2ZDZlZjdiNDVi%40thread.v2/0?con
+ text=%7b%22Tid%22%3a%228b86a65e-3c3a-4406-8ac3-19a6b5cc52bc%22%2c%22Oid%22%
+ 3a%224b1deb08-b2d0-427a-a65b-dc20b25f338c%22%7d>\nJoin with a video confere
+ ncing device\n12635748@t.plcm.vc\nVideo Conference ID: 125 406 181 3\nAlter
+ nate VTC dialing instructions<https://dialin.plcm.vc/teams/?key=12635748&co
+ nf=1254061813>\nLearn More<https://aka.ms/JoinTeamsMeeting> | Meeting optio
+ ns<https://teams.microsoft.com/meetingOptions/?organizerId=4b1deb08-b2d0-42
+ 7a-a65b-dc20b25f338c&tenantId=8b86a65e-3c3a-4406-8ac3-19a6b5cc52bc&threadId
+ =19_meeting_NWRjNDdlNDQtNTFjZi00ZTg4LWI0ZjktZmU2ZDZlZjdiNDVi@thread.v2&mess
+ ageId=0&language=en-US>\n__________________________________________________
+ ______________________________\n
+LAST-MODIFIED:20221220T070910Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Interview with Mukhamejan Omar
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-OWNERAPPTID:2119594446
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-LOCATIONS:[]
+X-MICROSOFT-ONLINEMEETINGCONFLINK:conf:sip:Anastassiya.Imtossimi@contracted
+ .pmi.com\;gruu\;opaque=app:conf:focus:id:teams:2:0!19:meeting_NWRjNDdlNDQtN
+ TFjZi00ZTg4LWI0ZjktZmU2ZDZlZjdiNDVi-thread.v2!4b1deb08b2d0427aa65bdc20b25f3
+ 38c!8b86a65e3c3a44068ac319a6b5cc52bc
+X-MICROSOFT-ONLINEMEETINGINFORMATION:{"OnlineMeetingChannelId":null\,"Onlin
+ eMeetingProvider":3}
+X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api.scheduler.teams.microsof
+ t.com/teams/8b86a65e-3c3a-4406-8ac3-19a6b5cc52bc/4b1deb08-b2d0-427a-a65b-dc
+ 20b25f338c/19_meeting_NWRjNDdlNDQtNTFjZi00ZTg4LWI0ZjktZmU2ZDZlZjdiNDVi@thre
+ ad.v2/0
+X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_NWRjNDdlNDQtNTFjZi00ZTg4LWI0ZjktZmU2ZDZlZjdiNDVi%40thread.v2/0
+ ?context=%7b%22Tid%22%3a%228b86a65e-3c3a-4406-8ac3-19a6b5cc52bc%22%2c%22Oid
+ %22%3a%224b1deb08-b2d0-427a-a65b-dc20b25f338c%22%7d
+X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_NWRjNDdlNDQtNTFjZi00ZTg
+ 4LWI0ZjktZmU2ZDZlZjdiNDVi@thread.v2"\,"rid":0\,"mid":0\,"uid":null\,"privat
+ e":true\,"type":0}
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210513T090000Z
+DTEND:20210513T113000Z
+DTSTAMP:20230525T210935Z
+ORGANIZER;CN="Kim, Yuliya (contracted)":mailto:yuliya.kim@contracted.pmi.co
+ m
+UID:040000008200E00074C5B7101A82E0080000000010BD58224747D701000000000000000
+ 0100000006C74E1A485004740A582B7E421F6A8AF
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=17
+ 08.a.j@gmail.com;X-NUM-GUESTS=0:mailto:1708.a.j@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ad
+ il_pain@mail.ru;X-NUM-GUESTS=0:mailto:adil_pain@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ad
+ inasag@gmail.com;X-NUM-GUESTS=0:mailto:adinasag@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ai
+ dana.boranbay@nu.edu.kz;X-NUM-GUESTS=0:mailto:aidana.boranbay@nu.edu.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ai
+ ganymbayadilova@gmail.com;X-NUM-GUESTS=0:mailto:aiganymbayadilova@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ai
+ na_bizhanova@mail.ru;X-NUM-GUESTS=0:mailto:aina_bizhanova@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ai
+ zhanaubakir@gmail.com;X-NUM-GUESTS=0:mailto:aizhanaubakir@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ak
+ nurturdaliyeva@gmail.com;X-NUM-GUESTS=0:mailto:aknurturdaliyeva@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ imkulyeldos@gmail.com;X-NUM-GUESTS=0:mailto:alimkulyeldos@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ mirabiss@gmail.com;X-NUM-GUESTS=0:mailto:almirabiss@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ el.talgatkyzy07@gmail.com;X-NUM-GUESTS=0:mailto:anel.talgatkyzy07@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ elyayerkinbek@gmail.com;X-NUM-GUESTS=0:mailto:anelyayerkinbek@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ar
+ uzhankumarova@gmail.com;X-NUM-GUESTS=0:mailto:aruzhankumarova@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=as
+ siya.meirmanova@alumni.nu.edu.kz;X-NUM-GUESTS=0:mailto:assiya.meirmanova@nu
+ .edu.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=as
+ tana98776@gmail.com;X-NUM-GUESTS=0:mailto:astana98776@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=az
+ at.kalimba@gmail.com;X-NUM-GUESTS=0:mailto:azat.kalimba@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ba
+ gissova.c@gmail.com;X-NUM-GUESTS=0:mailto:bagissova.c@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ba
+ lkhanov.com@gmail.com;X-NUM-GUESTS=0:mailto:balkhanov.com@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ba
+ lnur.yenshibay@gmail.com;X-NUM-GUESTS=0:mailto:balnur.yenshibay@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=be
+ kmyrza.ayazbekov@nu.edu.kz;X-NUM-GUESTS=0:mailto:bekmyrza.ayazbekov@nu.edu.
+ kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bo
+ mbitosss@gmail.com;X-NUM-GUESTS=0:mailto:bombitosss@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ irseitkazin@gmail.com;X-NUM-GUESTS=0:mailto:dairseitkazin@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ na.mikkonen@narxoz.kz;X-NUM-GUESTS=0:mailto:dana.mikkonen@narxoz.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ niyarlaiyk@gmail.com;X-NUM-GUESTS=0:mailto:daniyarlaiyk@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=di
+ anaasmv@gmail.com;X-NUM-GUESTS=0:mailto:dianaasmv@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=di
+ narabolatovna1998@gmail.com;X-NUM-GUESTS=0:mailto:dinarabolatovna1998@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ga
+ liya.khairullayeva@kimep.kz;X-NUM-GUESTS=0:mailto:galiya.khairullayeva@kime
+ p.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ga
+ ryngazy@gmail.com;X-NUM-GUESTS=0:mailto:garyngazy@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=km
+ .yuraa1@gmail.com;X-NUM-GUESTS=0:mailto:km.yuraa1@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=la
+ ura.auken1@gmail.com;X-NUM-GUESTS=0:mailto:laura.auken1@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ 950611@gmail.com;X-NUM-GUESTS=0:mailto:ma950611@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ dina.jumagulova@alumni.nu.edu.kz;X-NUM-GUESTS=0:mailto:madina.jumagulova@al
+ umni.nu.edu.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ idawatulepk@gmail.com;X-NUM-GUESTS=0:mailto:maidawatulepk@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ ksimkabaev25@gmail.com;X-NUM-GUESTS=0:mailto:maksimkabaev25@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=me
+ .nurmanov@gmail.com;X-NUM-GUESTS=0:mailto:me.nurmanov@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=mu
+ khamejan.omar@gmail.com;X-NUM-GUESTS=0:mailto:mukhamejan.omar@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=n.
+ tazhimurat@gmail.com;X-NUM-GUESTS=0:mailto:n.tazhimurat@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=na
+ z.telgarayeva@gmail.com;X-NUM-GUESTS=0:mailto:naz.telgarayeva@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ns
+ idagalieva@gmail.com;X-NUM-GUESTS=0:mailto:nsidagalieva@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=nu
+ rlan.berdenovv@gmail.com;X-NUM-GUESTS=0:mailto:nurlan.berdenovv@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=nu
+ rseitseitzhanov@gmail.com;X-NUM-GUESTS=0:mailto:nurseitseitzhanov@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=nu
+ rzhan.shynbergenov@gmail.com;X-NUM-GUESTS=0:mailto:nurzhan.shynbergenov@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=or
+ azaliev.azamat@gmail.com;X-NUM-GUESTS=0:mailto:orazaliev.azamat@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ru
+ stam.kempirov@gmail.com;X-NUM-GUESTS=0:mailto:rustam.kempirov@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sa
+ dyralievaa9@gmail.com;X-NUM-GUESTS=0:mailto:sadyralievaa9@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sa
+ niya.amangalina@mail.ru;X-NUM-GUESTS=0:mailto:saniya.amangalina@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=te
+ mirlan.biman@kimep.kz;X-NUM-GUESTS=0:mailto:temirlan.biman@kimep.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ti
+ ma-abylkairov@mail.ru;X-NUM-GUESTS=0:mailto:tima-abylkairov@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=to
+ miris.bolatbekova@nu.edu.kz;X-NUM-GUESTS=0:mailto:tomiris.bolatbekova@nu.ed
+ u.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=tu
+ rsumbaevatk@gmail.com;X-NUM-GUESTS=0:mailto:tursumbaevatk@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ye
+ rassyltilemis@gmail.com;X-NUM-GUESTS=0:mailto:yerassyltilemis@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=za
+ tusays@gmail.com;X-NUM-GUESTS=0:mailto:zatusays@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=zh
+ .dariya00@gmail.com;X-NUM-GUESTS=0:mailto:zh.dariya00@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=zh
+ akanbay.diana@gmail.com;X-NUM-GUESTS=0:mailto:zhakanbay.diana@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=a-
+ uali@inbox.ru;X-NUM-GUESTS=0:mailto:a-uali@inbox.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ exanderkaribaev@yandex.kz;X-NUM-GUESTS=0:mailto:alexanderkaribaev@yandex.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=as
+ imbaeva99@mail.ru;X-NUM-GUESTS=0:mailto:asimbaeva99@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ba
+ lmakaev_sayat@mail.ru;X-NUM-GUESTS=0:mailto:balmakaev_sayat@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ na-kultassova@mail.ru;X-NUM-GUESTS=0:mailto:dana-kultassova@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ na.yerlanova@yandex.ru;X-NUM-GUESTS=0:mailto:dana.yerlanova@yandex.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ naseryakova@yahoo.com;X-NUM-GUESTS=0:mailto:danaseryakova@yahoo.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dn
+ urbaeva@inbox.ru;X-NUM-GUESTS=0:mailto:dnurbaeva@inbox.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=el
+ shnizami@mail.ru;X-NUM-GUESTS=0:mailto:elshnizami@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=en
+ loka@mail.ru;X-NUM-GUESTS=0:mailto:enloka@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=er
+ lan_aden@mail.ru;X-NUM-GUESTS=0:mailto:erlan_aden@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ga
+ usau1@mail.ru;X-NUM-GUESTS=0:mailto:gausau1@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ka
+ mali-1999@mail.ru;X-NUM-GUESTS=0:mailto:kamali-1999@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ka
+ zeu2020@mail.ru;X-NUM-GUESTS=0:mailto:kazeu2020@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ko
+ pzhan.aidarkhan@mail.ru;X-NUM-GUESTS=0:mailto:kopzhan.aidarkhan@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=na
+ rgiz0097@mail.ru;X-NUM-GUESTS=0:mailto:nargiz0097@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=os
+ panov_orazali@mail.ru;X-NUM-GUESTS=0:mailto:ospanov_orazali@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ru
+ slan_srm_99@bk.ru;X-NUM-GUESTS=0:mailto:ruslan_srm_99@bk.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=vi
+ ktoriya.shtelter@mail.ru;X-NUM-GUESTS=0:mailto:viktoriya.shtelter@mail.ru
+CREATED:20210512T110833Z
+DESCRIPTION:\nПрисоединяйся ! → Click here to join the meeting<https://team
+ s.microsoft.com/l/meetup-join/19%3ameeting_ODA0YjhlMzYtNjE4ZC00NjQyLWJmMGQt
+ MzkwYWMwMmI4MzQ1%40thread.v2/0?context=%7b%22Tid%22%3a%228b86a65e-3c3a-4406
+ -8ac3-19a6b5cc52bc%22%2c%22Oid%22%3a%2252a3e506-80fe-4ecd-acad-9e8bd278fa51
+ %22%7d>\nJoin with a video conferencing device\n12635748@t.plcm.vc<mailto:1
+ 2635748@t.plcm.vc>\nVideo Conference ID: 121 813 899 1\nAlternate VTC diali
+ ng instructions<https://dialin.plcm.vc/teams/?key=12635748&conf=1218138991>
+ \nLearn More<https://aka.ms/JoinTeamsMeeting> | Meeting options<https://tea
+ ms.microsoft.com/meetingOptions/?organizerId=52a3e506-80fe-4ecd-acad-9e8bd2
+ 78fa51&tenantId=8b86a65e-3c3a-4406-8ac3-19a6b5cc52bc&threadId=19_meeting_OD
+ A0YjhlMzYtNjE4ZC00NjQyLWJmMGQtMzkwYWMwMmI4MzQ1@thread.v2&messageId=0&langua
+ ge=en-US>\n\n\n
+LAST-MODIFIED:20221220T070909Z
+LOCATION:ms teams
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PMBA: Модуль 6_ДИДЖИТАЛИЗАЦИЯ: модный тренд или новая реальность
+TRANSP:OPAQUE
+ATTACH;FILENAME=ATT16542 1.jpg:?view=att&th=1796043eb6e816c6&attid=0.1&disp
+ =attd&zw
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-OWNERAPPTID:1686919141
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-LOCATIONS:[{"DisplayName":"ms teams"\,"LocationAnnotation":""\,
+ "LocationUri":""\,"LocationStreet":""\,"LocationCity":""\,"LocationState":"
+ "\,"LocationCountry":""\,"LocationPostalCode":""\,"LocationFullAddress":""}
+ ]
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210713T030000Z
+DTEND:20210713T035000Z
+DTSTAMP:20230525T210935Z
+ORGANIZER;CN="Bermukhamedova, Assem":mailto:assem.bermukhamedova@jti.com
+UID:040000008200E00074C5B7101A82E00800000000D092ED38A26ED701000000000000000
+ 010000000FF3F58650B2D1F4981CEA9EF72E53AB8
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mukham
+ ejan.omar@gmail.com;X-NUM-GUESTS=0:mailto:mukhamejan.omar@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN="G
+ azizov, Ramil";X-NUM-GUESTS=0:mailto:ramil.gazizov@jti.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN="Z
+ hursinbekova, Adina";X-NUM-GUESTS=0:mailto:adina.zhursinbekova@jti.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN="P
+ etrovskaya, Alina";X-NUM-GUESTS=0:mailto:alina.petrovskaya@jti.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN="N
+ urmambetov, Dias";X-NUM-GUESTS=0:mailto:dias.nurmambetov@jti.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN="M
+ ishustin, Dmitriy";X-NUM-GUESTS=0:mailto:dmitriy.mishustin@jti.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN="K
+ hassanova, Kamila";X-NUM-GUESTS=0:mailto:kamila.khassanova@jti.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN="P
+ olkovnikov, Yuriy";X-NUM-GUESTS=0:mailto:yuriy.polkovnikov@jti.com
+CREATED:20210712T075030Z
+DESCRIPTION:[cid:image001.png@01D76EA2.BD027090]\n\nМухамеджан\,\n\nКомпани
+ я «JTI Kazakhstan» предлагает Вам принять участие в финальном интервью с би
+ знес\nфункциями (Engineering\, Trade Marketing)\, в рамках конкурсного отбо
+ ра на программу\nстажировок «Make It Bright»\, 13.07.2021 в 09:00 (по време
+ ни Алматы).\nВидео-формат интервью.\n\nСсылка на подключение к митингу ниже
+ .\n\nС уважением\,\nJTI Kazakhstan\,\nPeople & Culture\n\n_________________
+ _______________________________________________________________\nMicrosoft 
+ Teams meeting\nJoin on your computer or mobile app\nClick here to join the 
+ meeting<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWFiYzlkNzEt
+ ZmE2ZC00Mjc1LWE3MTAtNmQzMzViZjA3YTll%40thread.v2/0?context=%7b%22Tid%22%3a%
+ 22705d07a3-2eea-4f3b-ab59-65ca29abeb26%22%2c%22Oid%22%3a%228946ae9a-7715-4c
+ ae-bde0-8df9c0db95b4%22%7d>\nJoin with a video conferencing device\njti.tea
+ ms@meet.call.vc<mailto:jti.teams@meet.call.vc>\nVideo Conference ID: 126 06
+ 3 510 9\nAlternate VTC dialing instructions<https://www.kinly.com/teams/?co
+ nf=1260635109&ivr=jti.teams&d=meet.call.vc&test=test_call&prefix=jti.>\nOr 
+ call in (audio only)\n+41 44 561 58 46\,\,893468760#<tel:+41445615846\,\,89
+ 3468760#>   Switzerland\, Zurich/Zürich/Zurigo (Zurich)\nPhone Conference I
+ D: 893 468 760#\nFind a local number<https://dialin.teams.microsoft.com/1d3
+ 7c703-07d6-4d8a-9b9f-0cc6baacee2b?id=893468760> | Reset PIN<https://mysetti
+ ngs.lync.com/pstnconferencing>\nIf you have questions on how to join a Team
+ s meeting\, please follow the link below.\nLearn More<https://aka.ms/JoinTe
+ amsMeeting> | Help<https://jti.service-now.com/sp?id=kb_article_view&syspar
+ m_article=KB18261> | Meeting options<https://teams.microsoft.com/meetingOpt
+ ions/?organizerId=8946ae9a-7715-4cae-bde0-8df9c0db95b4&tenantId=705d07a3-2e
+ ea-4f3b-ab59-65ca29abeb26&threadId=19_meeting_MWFiYzlkNzEtZmE2ZC00Mjc1LWE3M
+ TAtNmQzMzViZjA3YTll@thread.v2&messageId=0&language=en-US>\n________________
+ ________________________________________________________________\n\n_______
+ _________________________\n\nОсы электрондық хат\, бүкіл қосымшаларын қоса 
+ алғанда\, "Джей Ти Ай Қазақстан" ЖШС-не тиесілі және жоғарыда көрсетілген х
+ ат алушыға арналған құпия ақпаратты құрайды. Егер де\, сіз осы хаттың тиіст
+ і алушысы немесе осы хатты тиісті алушысына жеткізуге жауапты агент болмаса
+ ңыз\, осы құжатты қателікпен алғаныңызды және оның құрамы жайындағы кез-кел
+ ген әрекетіңізге оны қарау\, ашу\, көшіру және тарату қатан тиым салынатыны
+ на біз осымен сізге хабар етеміз. Осындай жағдайда\, кідірмей хат жіберушіг
+ е хабар беріп осы электрондық хатты\, бүкіл қосымшаларын қоса\, өз жүйеңізд
+ ен жойыңыз.\n\nНастоящее электронное сообщение\, включая все имеющиеся прил
+ ожения\, содержит конфиденциальную информацию\, принадлежащую ТОО "Джей Ти 
+ Ай Казахстан"\, и предназначено только для указанного выше получателя. Если
+  вы не являетесь надлежащим получателем или агентом\, отвечающим за доставк
+ у настоящего сообщения надлежащему получателю\, то настоящим сообщаем вам о
+  том\, что вы получили настоящий документ по ошибке\, и любые действия в от
+ ношении его содержания\, включая просмотр\, раскрытие\, копирование и распр
+ остранение\, строго запрещены. В этом случае\, пожалуйста\, незамедлительно
+  уведомите отправителя и удалите настоящее электронное сообщение\, включая 
+ все имеющиеся приложения\, из вашей системы.\n\nThis e-mail message includi
+ ng any attachments contains confidential information that belongs to JTI Ka
+ zakhstan LLC and is intended only for the recipient named above. If you are
+  not the intended recipient or an agent responsible for delivering it to th
+ e intended recipient\, you are hereby notified that you have received this 
+ document in error and that taking any action in relation to its contents in
+ cluding review\, disclosing\, copying\, or distributing is strictly prohibi
+ ted. In this case\, please notify the sender immediately and delete this e-
+ mail message including attachment(s) from your SYSTEM.\n
+LAST-MODIFIED:20221220T070908Z
+LOCATION:Microsoft Teams Meeting
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Конкурсный отбор на программу стажировок MAKE IT BRIGHT
+TRANSP:OPAQUE
+ATTACH;FILENAME=image001.png:?view=att&th=17a99b25423783f6&attid=0.1&disp=a
+ ttd&zw
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-APPT-SEQUENCE:2
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-OWNERAPPTID:-1824426011
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-LOCATIONS:[ { "DisplayName" : "Microsoft Teams Meeting"\, "Loca
+ tionAnnotation" : ""\, "LocationSource" : 0\, "Unresolved" : false\, "Locat
+ ionUri" : "" } ]
+X-MICROSOFT-ONLINEMEETINGCONFLINK:conf:sip:Assem.Bermukhamedova@jti.com\;gr
+ uu\;opaque=app:conf:focus:id:teams:2:0!19:meeting_MWFiYzlkNzEtZmE2ZC00Mjc1L
+ WE3MTAtNmQzMzViZjA3YTll-thread.v2!8946ae9a77154caebde08df9c0db95b4!705d07a3
+ 2eea4f3bab5965ca29abeb26
+X-MICROSOFT-ONLINEMEETINGINFORMATION:{"OnlineMeetingChannelId":null\,"Onlin
+ eMeetingProvider":3}
+X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api.scheduler.teams.microsof
+ t.com/teams/705d07a3-2eea-4f3b-ab59-65ca29abeb26/8946ae9a-7715-4cae-bde0-8d
+ f9c0db95b4/19_meeting_MWFiYzlkNzEtZmE2ZC00Mjc1LWE3MTAtNmQzMzViZjA3YTll@thre
+ ad.v2/0
+X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_MWFiYzlkNzEtZmE2ZC00Mjc1LWE3MTAtNmQzMzViZjA3YTll%40thread.v2/0
+ ?context=%7b%22Tid%22%3a%22705d07a3-2eea-4f3b-ab59-65ca29abeb26%22%2c%22Oid
+ %22%3a%228946ae9a-7715-4cae-bde0-8df9c0db95b4%22%7d
+X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_MWFiYzlkNzEtZmE2ZC00Mjc
+ 1LWE3MTAtNmQzMzViZjA3YTll@thread.v2"\,"private":true\,"type":0\,"mid":0\,"r
+ id":0\,"uid":null}
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210429T090000Z
+DTEND:20210429T110000Z
+DTSTAMP:20230525T210935Z
+ORGANIZER;CN="Kim, Yuliya (contracted)":mailto:yuliya.kim@contracted.pmi.co
+ m
+UID:040000008200E00074C5B7101A82E00800000000E0835BBA573CD701000000000000000
+ 01000000095DA548222CEB743A512C9E897135B9D
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=17
+ 08.a.j@gmail.com;X-NUM-GUESTS=0:mailto:1708.a.j@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ad
+ il_pain@mail.ru;X-NUM-GUESTS=0:mailto:adil_pain@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ad
+ inasag@gmail.com;X-NUM-GUESTS=0:mailto:adinasag@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ai
+ dana.boranbay@nu.edu.kz;X-NUM-GUESTS=0:mailto:aidana.boranbay@nu.edu.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ai
+ ganymbayadilova@gmail.com;X-NUM-GUESTS=0:mailto:aiganymbayadilova@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ai
+ na_bizhanova@mail.ru;X-NUM-GUESTS=0:mailto:aina_bizhanova@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ai
+ zhanaubakir@gmail.com;X-NUM-GUESTS=0:mailto:aizhanaubakir@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ak
+ nurturdaliyeva@gmail.com;X-NUM-GUESTS=0:mailto:aknurturdaliyeva@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ imkulyeldos@gmail.com;X-NUM-GUESTS=0:mailto:alimkulyeldos@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ mirabiss@gmail.com;X-NUM-GUESTS=0:mailto:almirabiss@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ el.talgatkyzy07@gmail.com;X-NUM-GUESTS=0:mailto:anel.talgatkyzy07@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ elyayerkinbek@gmail.com;X-NUM-GUESTS=0:mailto:anelyayerkinbek@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ar
+ ayka0299@gmail.com;X-NUM-GUESTS=0:mailto:arayka0299@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ar
+ uzhankumarova@gmail.com;X-NUM-GUESTS=0:mailto:aruzhankumarova@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=as
+ sem.aliakbar@nu.edu.kz;X-NUM-GUESTS=0:mailto:assem.aliakbar@nu.edu.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=as
+ siya.meirmanova@alumni.nu.edu.kz;X-NUM-GUESTS=0:mailto:assiya.meirmanova@nu
+ .edu.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=as
+ tana98776@gmail.com;X-NUM-GUESTS=0:mailto:astana98776@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=az
+ at.kalimba@gmail.com;X-NUM-GUESTS=0:mailto:azat.kalimba@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ba
+ gissova.c@gmail.com;X-NUM-GUESTS=0:mailto:bagissova.c@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ba
+ lkhanov.com@gmail.com;X-NUM-GUESTS=0:mailto:balkhanov.com@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ba
+ lnur.yenshibay@gmail.com;X-NUM-GUESTS=0:mailto:balnur.yenshibay@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bb
+ blair1313@gmail.com;X-NUM-GUESTS=0:mailto:bbblair1313@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=be
+ kmyrza.ayazbekov@nu.edu.kz;X-NUM-GUESTS=0:mailto:bekmyrza.ayazbekov@nu.edu.
+ kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bo
+ mbitosss@gmail.com;X-NUM-GUESTS=0:mailto:bombitosss@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ irseitkazin@gmail.com;X-NUM-GUESTS=0:mailto:dairseitkazin@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ na.mikkonen@narxoz.kz;X-NUM-GUESTS=0:mailto:dana.mikkonen@narxoz.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ niyarlaiyk@gmail.com;X-NUM-GUESTS=0:mailto:daniyarlaiyk@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=di
+ anaasmv@gmail.com;X-NUM-GUESTS=0:mailto:dianaasmv@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=di
+ narabolatovna1998@gmail.com;X-NUM-GUESTS=0:mailto:dinarabolatovna1998@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=fa
+ rukh.knv@gmail.com;X-NUM-GUESTS=0:mailto:farukh.knv@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ga
+ liya.khairullayeva@kimep.kz;X-NUM-GUESTS=0:mailto:galiya.khairullayeva@kime
+ p.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ga
+ ryngazy@gmail.com;X-NUM-GUESTS=0:mailto:garyngazy@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=kh
+ makhambetkh@gmail.com;X-NUM-GUESTS=0:mailto:khmakhambetkh@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=km
+ .yuraa1@gmail.com;X-NUM-GUESTS=0:mailto:km.yuraa1@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=la
+ ura.auken1@gmail.com;X-NUM-GUESTS=0:mailto:laura.auken1@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ 950611@gmail.com;X-NUM-GUESTS=0:mailto:ma950611@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ dina.jumagulova@alumni.nu.edu.kz;X-NUM-GUESTS=0:mailto:madina.jumagulova@al
+ umni.nu.edu.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ idawatulepk@gmail.com;X-NUM-GUESTS=0:mailto:maidawatulepk@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ ksimkabaev25@gmail.com;X-NUM-GUESTS=0:mailto:maksimkabaev25@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=me
+ .nurmanov@gmail.com;X-NUM-GUESTS=0:mailto:me.nurmanov@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=mu
+ khamejan.omar@gmail.com;X-NUM-GUESTS=0:mailto:mukhamejan.omar@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=n.
+ tazhimurat@gmail.com;X-NUM-GUESTS=0:mailto:n.tazhimurat@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=na
+ z.telgarayeva@gmail.com;X-NUM-GUESTS=0:mailto:naz.telgarayeva@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ns
+ idagalieva@gmail.com;X-NUM-GUESTS=0:mailto:nsidagalieva@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=nu
+ rlan.berdenovv@gmail.com;X-NUM-GUESTS=0:mailto:nurlan.berdenovv@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=nu
+ rseitseitzhanov@gmail.com;X-NUM-GUESTS=0:mailto:nurseitseitzhanov@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=nu
+ rzhan.shynbergenov@gmail.com;X-NUM-GUESTS=0:mailto:nurzhan.shynbergenov@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ol
+ zhasforbusiness@gmail.com;X-NUM-GUESTS=0:mailto:olzhasforbusiness@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=or
+ azaliev.azamat@gmail.com;X-NUM-GUESTS=0:mailto:orazaliev.azamat@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ra
+ khat.altynshash.b@gmail.com;X-NUM-GUESTS=0:mailto:rakhat.altynshash.b@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ru
+ stam.kempirov@gmail.com;X-NUM-GUESTS=0:mailto:rustam.kempirov@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sa
+ dyralievaa9@gmail.com;X-NUM-GUESTS=0:mailto:sadyralievaa9@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sa
+ niya.amangalina@mail.ru;X-NUM-GUESTS=0:mailto:saniya.amangalina@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=te
+ mirlan.biman@kimep.kz;X-NUM-GUESTS=0:mailto:temirlan.biman@kimep.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ti
+ ma-abylkairov@mail.ru;X-NUM-GUESTS=0:mailto:tima-abylkairov@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=to
+ miris.bolatbekova@nu.edu.kz;X-NUM-GUESTS=0:mailto:tomiris.bolatbekova@nu.ed
+ u.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=tu
+ rsumbaevatk@gmail.com;X-NUM-GUESTS=0:mailto:tursumbaevatk@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ye
+ rassyltilemis@gmail.com;X-NUM-GUESTS=0:mailto:yerassyltilemis@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=za
+ tusays@gmail.com;X-NUM-GUESTS=0:mailto:zatusays@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=zh
+ .dariya00@gmail.com;X-NUM-GUESTS=0:mailto:zh.dariya00@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=zh
+ akanbay.diana@gmail.com;X-NUM-GUESTS=0:mailto:zhakanbay.diana@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=a-
+ uali@inbox.ru;X-NUM-GUESTS=0:mailto:a-uali@inbox.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ exanderkaribaev@yandex.kz;X-NUM-GUESTS=0:mailto:alexanderkaribaev@yandex.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=as
+ imbaeva99@mail.ru;X-NUM-GUESTS=0:mailto:asimbaeva99@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ba
+ lmakaev_sayat@mail.ru;X-NUM-GUESTS=0:mailto:balmakaev_sayat@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ba
+ rrikadovich@bk.ru;X-NUM-GUESTS=0:mailto:barrikadovich@bk.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ na-kultassova@mail.ru;X-NUM-GUESTS=0:mailto:dana-kultassova@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ na.yerlanova@yandex.ru;X-NUM-GUESTS=0:mailto:dana.yerlanova@yandex.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ naseryakova@yahoo.com;X-NUM-GUESTS=0:mailto:danaseryakova@yahoo.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dn
+ urbaeva@inbox.ru;X-NUM-GUESTS=0:mailto:dnurbaeva@inbox.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=el
+ shnizami@mail.ru;X-NUM-GUESTS=0:mailto:elshnizami@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=en
+ loka@mail.ru;X-NUM-GUESTS=0:mailto:enloka@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=er
+ lan_aden@mail.ru;X-NUM-GUESTS=0:mailto:erlan_aden@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=g_
+ bekzhan@kbtu.kz;X-NUM-GUESTS=0:mailto:g_bekzhan@kbtu.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ga
+ usau1@mail.ru;X-NUM-GUESTS=0:mailto:gausau1@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ka
+ mali-1999@mail.ru;X-NUM-GUESTS=0:mailto:kamali-1999@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ka
+ zeu2020@mail.ru;X-NUM-GUESTS=0:mailto:kazeu2020@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ko
+ pzhan.aidarkhan@mail.ru;X-NUM-GUESTS=0:mailto:kopzhan.aidarkhan@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ dina-muslimova@bk.ru;X-NUM-GUESTS=0:mailto:madina-muslimova@bk.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ms
+ .tynybekova@inbox.ru;X-NUM-GUESTS=0:mailto:ms.tynybekova@inbox.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=na
+ rgiz0097@mail.ru;X-NUM-GUESTS=0:mailto:nargiz0097@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=os
+ panov_orazali@mail.ru;X-NUM-GUESTS=0:mailto:ospanov_orazali@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ru
+ slan_srm_99@bk.ru;X-NUM-GUESTS=0:mailto:ruslan_srm_99@bk.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=un
+ predictable00007@mail.ru;X-NUM-GUESTS=0:mailto:unpredictable00007@mail.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=vi
+ ktoriya.shtelter@mail.ru;X-NUM-GUESTS=0:mailto:viktoriya.shtelter@mail.ru
+CREATED:20210428T125940Z
+DESCRIPTION:Присоединяйся → Click here to join the meeting<https://teams.mi
+ crosoft.com/l/meetup-join/19%3ameeting_ODA0YjhlMzYtNjE4ZC00NjQyLWJmMGQtMzkw
+ YWMwMmI4MzQ1%40thread.v2/0?context=%7b%22Tid%22%3a%228b86a65e-3c3a-4406-8ac
+ 3-19a6b5cc52bc%22%2c%22Oid%22%3a%2252a3e506-80fe-4ecd-acad-9e8bd278fa51%22%
+ 7d>\n\nJoin with a video conferencing device\n12635748@t.plcm.vc<mailto:126
+ 35748@t.plcm.vc>\nVideo Conference ID: 121 813 899 1\nAlternate VTC dialing
+  instructions<https://dialin.plcm.vc/teams/?key=12635748&conf=1218138991>\n
+ Learn More<https://aka.ms/JoinTeamsMeeting> | Meeting options<https://teams
+ .microsoft.com/meetingOptions/?organizerId=52a3e506-80fe-4ecd-acad-9e8bd278
+ fa51&tenantId=8b86a65e-3c3a-4406-8ac3-19a6b5cc52bc&threadId=19_meeting_ODA0
+ YjhlMzYtNjE4ZC00NjQyLWJmMGQtMzkwYWMwMmI4MzQ1@thread.v2&messageId=0&language
+ =en-US>\n\n\n
+LAST-MODIFIED:20221220T070906Z
+LOCATION:MS Teams
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:#PMBA_Модуль 2: Потребитель в центре внимания
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-OWNERAPPTID:-1703131163
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-LOCATIONS:[{"DisplayName":"MS Teams"\,"LocationAnnotation":""\,
+ "LocationUri":""\,"LocationStreet":""\,"LocationCity":""\,"LocationState":"
+ "\,"LocationCountry":""\,"LocationPostalCode":""\,"LocationFullAddress":""}
+ ]
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210617T022000Z
+DTEND:20210617T054500Z
+DTSTAMP:20230525T210935Z
+ORGANIZER;CN=SEITZHANKYZY Aidana:mailto:aidana.seitzhankyzy@danone.com
+UID:040000008200E00074C5B7101A82E00800000000C08399D7AF62D701000000000000000
+ 010000000AAAF67518C090E4DBFAD348C85B4FEF1
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=a.
+ urazniyazova@gmail.com;X-NUM-GUESTS=0:mailto:a.urazniyazova@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ai
+ dana.makhmutkaliyeva@alumni.nu.edu.kz;X-NUM-GUESTS=0:mailto:aidana.makhmutk
+ aliyeva@nu.edu.kz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ai
+ nura Karabayeva;X-NUM-GUESTS=0:mailto:ainura.karabayeva@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ba
+ yandaniyar3@gmail.com;X-NUM-GUESTS=0:mailto:bayandaniyar3@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mukham
+ ejan.omar@gmail.com;X-NUM-GUESTS=0:mailto:mukhamejan.omar@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;X-NUM
+ -GUESTS=0:mailto:ydauletkhan@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=YA
+ RULINA Dinara;X-NUM-GUESTS=0:mailto:dinara.yarulina@danone.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ku
+ ka.kuka.kuka@mail.ru;X-NUM-GUESTS=0:mailto:kuka.kuka.kuka@mail.ru
+CREATED:20210616T073034Z
+DESCRIPTION:Уважаемые кандидаты\, добрый день.\nМы рады пригласить вас на А
+ ссессмент-центр\, который в этом году проводится в digital формате. Мы буде
+ м стараться передать всю атмосферу работы у нас\, уверены\, что вам понрави
+ тся!\nСсылка на Ассессмент-центр: https://mydanone.webex.com/join/aidana.se
+ itzhankyzy\nЦели Ассессмента:\n\n  *   Оценить компетенции кандидатов\n  * 
+   Выбрать кандидатов\, которые будут приглашены на финальные интервью с топ
+ -менеджерами компании\n\nПрограмма Ассессмент-центра:\n\n  1.  Вводная част
+ ь: цели и структура Ассессмент-центра\, технические правила.\n\n  1.  Оцено
+ чные упражнения:\n\n  *   Групповая дискуссия\n  *   Индивидуальная презент
+ ация.\n\nВсе детали вам будут также предоставлены отдельным письмом.\nС ува
+ жением\,\nАйдана Сейтжанкызы\nHR Generalist\nM: +7 (702) 969 96 33\naidana.
+ seitzhankyzy@danone.com<mailto:aidana.seitzhankyzy@danone.com>\n\nwww.danon
+ e.ru<http://www.danone.ru>\n[cid:image001.png@01D762AF.D7953E00]\n\n\n
+LAST-MODIFIED:20221220T070905Z
+LOCATION:https://mydanone.webex.com/join/aidana.seitzhankyzy
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Приглашение на Центр Оценки Danone Young Pro_17 June 2021
+TRANSP:OPAQUE
+ATTACH;FILENAME=image001.png:?view=att&th=17a13bac5e670673&attid=0.1&disp=a
+ ttd&zw
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-OWNERAPPTID:-447715355
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-LOCATIONS:[ { "DisplayName" : "https://mydanone.webex.com/join/
+ aidana.seitzhankyzy"\, "LocationAnnotation" : ""\, "LocationSource" : 0\, "
+ Unresolved" : true\, "LocationUri" : "" } ]
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221216T110000Z
+DTEND:20221216T120000Z
+DTSTAMP:20230525T210935Z
+UID:5sp2jgeijmd9or5vbjf1e7raeg@google.com
+CREATED:20221215T101859Z
+DESCRIPTION:Chop-Chop Астана Кунаева\nКазахстан Нур-Султан (Астана) Dinmukh
+ amed Qonayev St\, 2\n\nМУЖСКАЯ СТРИЖКА - цена: 5\,000 ₸\nСпециалист: Амир\n
+ Телефоны: \n  +7 777 363-00-44\n\nСайт: chopchop.me
+LAST-MODIFIED:20221215T101859Z
+LOCATION:Казахстан Нур-Султан (Астана) Dinmukhamed Qonayev St\, 2
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:МУЖСКАЯ СТРИЖКА - Chop-Chop Астана Кунаева на Dinmukhamed Qonayev S
+ t\, 2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221111T060000Z
+DTEND:20221111T070000Z
+DTSTAMP:20230525T210935Z
+UID:3gftnne6vjkhev29kn5qdd0net@google.com
+CREATED:20221110T032413Z
+DESCRIPTION:Сотрудник: Амир
+LAST-MODIFIED:20221110T032413Z
+LOCATION:Казахстан\, Нур-Султан (Астана)\, Dinmukhamed Qonayev St\, 2
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:МУЖСКАЯ СТРИЖКА
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220623T100000Z
+DTSTAMP:20230525T210935Z
+UID:40038cdv9phcnebufscluinue3@google.com
+CREATED:20220623T031403Z
+DESCRIPTION:Сотрудник: Амир
+LAST-MODIFIED:20220623T132017Z
+LOCATION:Казахстан\, Нур-Султан (Астана)\, ул. Динмухамед Конаев\, 2
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:МУЖСКАЯ СТРИЖКА
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:FD0EE6D6-F4AD-465A-84A1-3010ABC1A49F
+UID:FD0EE6D6-F4AD-465A-84A1-3010ABC1A49F
+ACKNOWLEDGED:20220623T132016Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210611T060000Z
+DTEND:20210611T065000Z
+DTSTAMP:20230525T210935Z
+UID:3uj200he9khpbgdmdvdmlttrd7@google.com
+CREATED:20210610T083627Z
+DESCRIPTION:
+LAST-MODIFIED:20220614T025211Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Archimedes
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Almaty:20220328T203000
+DTEND;TZID=Asia/Almaty:20220328T223500
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20220627T175959Z;BYDAY=FR,MO,WE
+DTSTAMP:20230525T210935Z
+UID:7e4tibj5rotnt15spq7o80mctc@google.com
+CREATED:20220328T015151Z
+DESCRIPTION:
+LAST-MODIFIED:20220328T015249Z
+LOCATION:
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Training
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220328T120000Z
+DTEND:20220328T125000Z
+DTSTAMP:20230525T210935Z
+UID:6eo9js679at3c0ksfva2ugr1ai@google.com
+CREATED:20220328T015131Z
+DESCRIPTION:
+LAST-MODIFIED:20220328T015131Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ice Party
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211221T093000Z
+DTEND:20211221T103000Z
+DTSTAMP:20230525T210935Z
+UID:ccsmachm6oqjcbb361h64b9kcgr68b9o6pgm2bb16hgmacb2clgm4c9i6c@google.com
+CREATED:20211220T051203Z
+DESCRIPTION:
+LAST-MODIFIED:20211220T051203Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Archimedes
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211210T070000Z
+DTEND:20211210T075000Z
+DTSTAMP:20230525T210935Z
+UID:3vkjqnecmu5c95t02p664an6f0@google.com
+CREATED:20211208T120254Z
+DESCRIPTION:
+LAST-MODIFIED:20211208T120254Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Архимедес
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210822T050000Z
+DTEND:20210822T100000Z
+DTSTAMP:20230525T210935Z
+UID:c9gjedb5c4o3abb460s3cb9kcko66b9pc5h6ab9n6oqj8p1jcdi64p9n74@google.com
+CREATED:20210819T131402Z
+DESCRIPTION:
+LAST-MODIFIED:20210819T131402Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Aknura
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Almaty:20210715T190000
+DTEND;TZID=Asia/Almaty:20210715T195000
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20210730T175959Z;BYDAY=FR,MO,TH,TU,WE
+DTSTAMP:20230525T210935Z
+UID:0e06qffoi6eacutfvou89jttfc@google.com
+CREATED:20210715T112729Z
+DESCRIPTION:
+LAST-MODIFIED:20210715T112812Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:SAP
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210715T130000Z
+DTEND:20210715T142000Z
+DTSTAMP:20230525T210935Z
+UID:6qis6761e13q76g45mcg3uhuf5@google.com
+CREATED:20210715T112645Z
+DESCRIPTION:
+LAST-MODIFIED:20210715T112645Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DC Lecture
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210622T080000Z
+DTEND:20210622T090000Z
+DTSTAMP:20230525T210935Z
+UID:75i30pj268o66b9oc8r30b9kcos3ib9o74o6cb9gcoo30ohlchj62pj36g@google.com
+CREATED:20210621T122108Z
+DESCRIPTION:
+LAST-MODIFIED:20210621T122108Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Узи
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Almaty:20210614T163000
+DTEND;TZID=Asia/Almaty:20210614T180000
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20210801T000000Z;INTERVAL=1;BYDAY=MO,WE,FR
+DTSTAMP:20230525T210935Z
+UID:6hh3ac1h6oq3ib9j6sq68b9k61hjeb9o74rj2b9hcoqm2chmcdj6cd1m6s@google.com
+CREATED:20210611T101641Z
+DESCRIPTION:
+LAST-MODIFIED:20210611T101657Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:SAT Math
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210614T100000Z
+DTEND:20210614T110000Z
+DTSTAMP:20230525T210935Z
+UID:71ijcd9l60pmab9k6cs3gb9k68o30b9o71j6abb2c4s36o9o6os30c1lcg@google.com
+CREATED:20210611T101450Z
+DESCRIPTION:
+LAST-MODIFIED:20210611T101450Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:JTI interview
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Almaty:20210607T100000
+DTEND;TZID=Asia/Almaty:20210607T120000
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20210806T000000Z;INTERVAL=1;BYDAY=MO,WE,FR
+DTSTAMP:20230525T210935Z
+UID:coomap1n6kq3gb9n70rjeb9k6dgj4b9o6gp64bb36osm2p9hc4qmccj2ck@google.com
+CREATED:20210607T184521Z
+DESCRIPTION:
+LAST-MODIFIED:20210607T184533Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Kazakh
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210602T103000Z
+DTEND:20210602T115000Z
+DTSTAMP:20230525T210935Z
+UID:6hfa79ppdp6j3f6nv6fts06poi@google.com
+CREATED:20210531T113403Z
+DESCRIPTION:
+LAST-MODIFIED:20210531T113403Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:SAT lesson 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210528T050000Z
+DTEND:20210528T060000Z
+DTSTAMP:20230525T210935Z
+UID:68q6ce33cgq3ebb464r6cb9kc8q3gb9p64q30b9jc4q6cob570rm8dho6g@google.com
+CREATED:20210527T144800Z
+DESCRIPTION:Dostyk 12/1
+LAST-MODIFIED:20210527T145104Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Showroom
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Almaty:20210601T180000
+DTEND;TZID=Asia/Almaty:20210601T185000
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20210619T175959Z;BYDAY=TH,TU
+DTSTAMP:20230525T210935Z
+UID:265l66vvngh23h02o92l14laf7@google.com
+CREATED:20210525T084847Z
+DESCRIPTION:
+LAST-MODIFIED:20210525T084903Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Unilever SC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Almaty:20210526T070000
+DTEND;TZID=Asia/Almaty:20210526T080000
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20210912T175959Z;BYDAY=FR,MO,SU,WE
+DTSTAMP:20230525T210935Z
+UID:6fbmr2ov1j38mnjgqefqko7i58@google.com
+CREATED:20210525T083602Z
+DESCRIPTION:
+LAST-MODIFIED:20210525T083602Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Run
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210524T040000Z
+DTEND:20210524T081500Z
+DTSTAMP:20230525T210935Z
+UID:65hjcob1chij4bb36sr38b9k6kpjab9o6cpm2b9i6kqm2d1jcoo3idpn6o@google.com
+CREATED:20210522T075457Z
+DESCRIPTION:
+LAST-MODIFIED:20210522T075457Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:JTI
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
