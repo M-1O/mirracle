@@ -25,7 +25,8 @@ class TodoCard extends StatelessWidget {
         color: Theme.of(context).colorScheme.surface,
         // color: Colors.transparent,
         shape: RoundedRectangleBorder(
-          borderRadius: BorderRadius.circular(TodoCardDimensions.borderRadius),
+          borderRadius:
+              BorderRadius.circular(TodoCardDimensions.borderRadius * 2),
         ).copyWith(
           side: BorderSide(
             color: context.colorScheme.surface,
@@ -36,7 +37,7 @@ class TodoCard extends StatelessWidget {
           height: TodoCardDimensions.height,
           child: Padding(
             padding: EdgeInsets.symmetric(
-              horizontal: TodoCardDimensions.horizontalPadding,
+              horizontal: TodoCardDimensions.horizontalPadding * 4,
               vertical: TodoCardDimensions.verticalPadding,
             ),
             child: Row(

@@ -27,7 +27,10 @@ class _NewsModuleState extends ConsumerState<NewsModule> {
   Widget build(BuildContext context) {
     final NewsEntity? news = ref.watch(newsProvider);
     // final String? newsPublisher = news?.source;
-    const String newsPublisher = 'BBC News';
+    const String newsPublisher = 'Sky Sports';
+
+    const String placeholderNews =
+        'Papers: Arteta holds PSG talks | Man City want Kimmich';
 
     return GestureDetector(
       onTap: () {
@@ -47,7 +50,8 @@ class _NewsModuleState extends ConsumerState<NewsModule> {
             height: 20.h,
           ),
           Text(
-            S.of(context).newsModule,
+            // S.of(context).newsModule,
+            placeholderNews,
             style: Theme.of(context).textTheme.displaySmall,
           ),
         ],

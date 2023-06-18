@@ -8,12 +8,13 @@ import 'src/core/utilities/app_window_utilities.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
+
+  WindowUtility.setWindowPreferences();
+
   // Initialize screen size
   await ScreenUtil.ensureScreenSize();
 
   await dotenv.load(fileName: 'lib/src/core/env/.env');
-
-  WindowUtility.setWindowPreferences();
 
   runApp(
     const ProviderScope(

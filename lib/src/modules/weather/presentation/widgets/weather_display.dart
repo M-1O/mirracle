@@ -30,49 +30,41 @@ class _WeatherDisplayState extends ConsumerState<WeatherDisplay> {
   }
 
   Widget get weatherIcon {
+    // final ColorFilter colorFilter = ColorFilter.mode(
+    //   context.colorScheme.prima,
+    //   BlendMode.srcIn,
+    // );
+
+    final colorFilter = null;
+
     switch (widget.weather) {
       case 'Clear':
         return Assets.weather.sun.svg(
-          colorFilter: ColorFilter.mode(
-            context.colorScheme.primary,
-            BlendMode.srcIn,
-          ),
+          colorFilter: colorFilter,
           height: 70.h,
           width: 60.w,
         );
       case 'Clouds':
         return Assets.weather.cloud.svg(
-          colorFilter: ColorFilter.mode(
-            context.colorScheme.primary,
-            BlendMode.srcIn,
-          ),
+          colorFilter: colorFilter,
           height: 70.h,
           width: 60.w,
         );
       case 'Rain':
         return Assets.weather.cloudRain.svg(
-          colorFilter: ColorFilter.mode(
-            context.colorScheme.primary,
-            BlendMode.srcIn,
-          ),
+          colorFilter: colorFilter,
           height: 70.h,
           width: 60.w,
         );
       case 'Snow':
         return Assets.weather.snowflake.svg(
-          colorFilter: ColorFilter.mode(
-            context.colorScheme.primary,
-            BlendMode.srcIn,
-          ),
+          colorFilter: colorFilter,
           height: 70.h,
           width: 60.w,
         );
       default:
         return Assets.weather.sun.svg(
-          colorFilter: ColorFilter.mode(
-            context.colorScheme.primary,
-            BlendMode.srcIn,
-          ),
+          colorFilter: colorFilter,
           height: 70.h,
           width: 60.w,
         );

@@ -24,7 +24,9 @@ class _DateTimeModuleState extends ConsumerState<DateTimeModule> {
         Text(
           ref.watch(dateTimeProvider.notifier).date,
           textAlign: TextAlign.start,
-          style: Theme.of(context).textTheme.displayMedium?.copyWith(),
+          style: Theme.of(context).textTheme.displayMedium?.copyWith(
+                fontWeight: FontWeight.w500,
+              ),
         ),
         SizedBox(height: 40.h),
         Text(
